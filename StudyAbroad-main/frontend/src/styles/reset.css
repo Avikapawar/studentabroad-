@@ -1,0 +1,86 @@
+/* CSS Reset for Navigation Elements - Load this FIRST */
+
+/* Remove ALL underlines from navigation elements */
+.navbar,
+.navbar *,
+.nav-link,
+.nav-logo,
+.dropdown-item,
+.notification-button,
+nav,
+nav *,
+[class*="nav"],
+[class*="navbar"] {
+  text-decoration: none !important;
+  text-decoration-line: none !important;
+  text-decoration-style: none !important;
+  text-decoration-color: transparent !important;
+  text-underline-offset: 0 !important;
+  text-decoration-thickness: 0 !important;
+}
+
+/* Remove underlines on ALL states */
+.navbar:hover,
+.navbar *:hover,
+.nav-link:hover,
+.nav-logo:hover,
+.dropdown-item:hover,
+.notification-button:hover,
+nav:hover,
+nav *:hover,
+[class*="nav"]:hover,
+[class*="navbar"]:hover,
+.navbar:focus,
+.navbar *:focus,
+.nav-link:focus,
+.nav-logo:focus,
+.dropdown-item:focus,
+.notification-button:focus,
+nav:focus,
+nav *:focus,
+[class*="nav"]:focus,
+[class*="navbar"]:focus,
+.navbar:active,
+.navbar *:active,
+.nav-link:active,
+.nav-logo:active,
+.dropdown-item:active,
+.notification-button:active,
+nav:active,
+nav *:active,
+[class*="nav"]:active,
+[class*="navbar"]:active,
+.navbar:visited,
+.navbar *:visited,
+.nav-link:visited,
+.nav-logo:visited,
+.dropdown-item:visited,
+.notification-button:visited,
+nav:visited,
+nav *:visited,
+[class*="nav"]:visited,
+[class*="navbar"]:visited {
+  text-decoration: none !important;
+  text-decoration-line: none !important;
+  text-decoration-style: none !important;
+  text-decoration-color: transparent !important;
+  text-underline-offset: 0 !important;
+  text-decoration-thickness: 0 !important;
+}
+
+/* Browser default link reset for navigation */
+.navbar a[href],
+.nav-link[href],
+.nav-logo[href],
+.dropdown-item[href],
+.notification-button[href] {
+  text-decoration: none !important;
+}
+
+.navbar a[href]:hover,
+.nav-link[href]:hover,
+.nav-logo[href]:hover,
+.dropdown-item[href]:hover,
+.notification-button[href]:hover {
+  text-decoration: none !important;
+}

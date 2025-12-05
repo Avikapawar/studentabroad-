@@ -1,0 +1,328 @@
+.cost-calculator {
+  background: white;
+  border: 1px solid #dee2e6;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.calculator-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 25px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #e9ecef;
+}
+
+.calculator-header h3 {
+  margin: 0;
+  color: #2c3e50;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.currency-selector {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.currency-selector label {
+  font-size: 0.9rem;
+  color: #495057;
+  font-weight: 500;
+}
+
+.currency-selector select {
+  padding: 6px 10px;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+  background: white;
+  font-size: 0.9rem;
+  min-width: 100px;
+}
+
+.calculator-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 25px;
+}
+
+.input-section {
+  background: #f8f9fa;
+  padding: 20px;
+  border-radius: 8px;
+  border: 1px solid #e9ecef;
+}
+
+.input-section h4 {
+  margin: 0 0 15px 0;
+  color: #2c3e50;
+  font-size: 1rem;
+  font-weight: 600;
+  border-bottom: 2px solid #007bff;
+  padding-bottom: 8px;
+}
+
+.input-group {
+  margin-bottom: 15px;
+}
+
+.input-group label {
+  display: block;
+  margin-bottom: 5px;
+  font-size: 0.9rem;
+  color: #495057;
+  font-weight: 500;
+}
+
+.input-group input {
+  width: 100%;
+  padding: 8px 12px;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  transition: border-color 0.2s ease;
+}
+
+.input-group input:focus {
+  outline: none;
+  border-color: #007bff;
+  box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.25);
+}
+
+.input-group input::placeholder {
+  color: #6c757d;
+  font-style: italic;
+}
+
+.checkbox-group {
+  margin-bottom: 15px;
+}
+
+.checkbox-group label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.9rem;
+  color: #495057;
+  cursor: pointer;
+}
+
+.checkbox-group input[type="checkbox"] {
+  width: auto;
+  margin: 0;
+}
+
+.inflation-input {
+  width: 60px !important;
+  margin-left: 10px;
+  padding: 4px 8px !important;
+  font-size: 0.8rem !important;
+}
+
+.results-section {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.results-section h4 {
+  margin: 0 0 20px 0;
+  color: white;
+  font-size: 1rem;
+  font-weight: 600;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.3);
+  padding-bottom: 8px;
+}
+
+.cost-breakdown {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.cost-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 0;
+  font-size: 0.9rem;
+}
+
+.cost-item.subtotal {
+  border-top: 1px solid rgba(255, 255, 255, 0.3);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  padding: 12px 0;
+  font-weight: 600;
+  margin: 8px 0;
+}
+
+.cost-item.income {
+  color: #90ee90;
+}
+
+.cost-item.total {
+  border-top: 2px solid rgba(255, 255, 255, 0.5);
+  padding: 15px 0 10px 0;
+  margin-top: 10px;
+  font-weight: 700;
+  font-size: 1.1rem;
+}
+
+.cost-item.annual {
+  font-size: 0.85rem;
+  opacity: 0.9;
+  font-style: italic;
+}
+
+.cost-label {
+  flex: 1;
+}
+
+.cost-value {
+  font-weight: 600;
+  text-align: right;
+}
+
+.affordability-indicator {
+  margin-top: 20px;
+  padding: 15px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.affordability-icon {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.affordability-text {
+  flex: 1;
+}
+
+.affordability-status {
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.budget-comparison {
+  font-size: 0.8rem;
+  opacity: 0.9;
+}
+
+.affordability-indicator.affordable {
+  background: rgba(40, 167, 69, 0.2);
+  border: 1px solid rgba(40, 167, 69, 0.3);
+}
+
+.affordability-indicator.stretch {
+  background: rgba(255, 193, 7, 0.2);
+  border: 1px solid rgba(255, 193, 7, 0.3);
+}
+
+.affordability-indicator.expensive {
+  background: rgba(220, 53, 69, 0.2);
+  border: 1px solid rgba(220, 53, 69, 0.3);
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 1024px) {
+  .calculator-content {
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+  
+  .results-section {
+    grid-column: 1 / -1;
+  }
+}
+
+@media (max-width: 768px) {
+  .cost-calculator {
+    padding: 15px;
+  }
+  
+  .calculator-header {
+    flex-direction: column;
+    gap: 15px;
+    align-items: stretch;
+  }
+  
+  .currency-selector {
+    justify-content: center;
+  }
+  
+  .calculator-content {
+    grid-template-columns: 1fr;
+    gap: 15px;
+  }
+  
+  .input-section {
+    padding: 15px;
+  }
+  
+  .results-section {
+    padding: 15px;
+  }
+  
+  .cost-item {
+    font-size: 0.85rem;
+  }
+  
+  .cost-item.total {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .cost-calculator {
+    padding: 12px;
+  }
+  
+  .calculator-header h3 {
+    font-size: 1.1rem;
+  }
+  
+  .input-section {
+    padding: 12px;
+  }
+  
+  .results-section {
+    padding: 12px;
+  }
+  
+  .cost-item {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+  }
+  
+  .cost-value {
+    text-align: left;
+    font-size: 1rem;
+  }
+  
+  .affordability-indicator {
+    flex-direction: column;
+    text-align: center;
+    gap: 8px;
+  }
+  
+  .checkbox-group label {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 5px;
+  }
+  
+  .inflation-input {
+    margin-left: 0 !important;
+    margin-top: 5px;
+  }
+}

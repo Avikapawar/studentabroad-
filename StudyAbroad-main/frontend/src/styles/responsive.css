@@ -1,0 +1,858 @@
+/* Mobile-First Responsive Design */
+
+/* Base Mobile Styles (320px+) */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 16px;
+  width: 100%;
+}
+
+/* Touch-friendly base styles */
+* {
+  -webkit-tap-highlight-color: rgba(0, 123, 255, 0.2);
+  -webkit-touch-callout: none;
+}
+
+/* Ensure minimum touch target size (44px) */
+button,
+.btn,
+input[type="button"],
+input[type="submit"],
+input[type="reset"],
+.nav-link,
+.checkbox-item,
+.suggestion-item {
+  min-height: 44px;
+  min-width: 44px;
+}
+
+/* Improve text readability on mobile */
+body {
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+/* Focus styles for accessibility */
+*:focus {
+  outline: 2px solid #007bff;
+  outline-offset: 2px;
+}
+
+/* Skip to main content link for screen readers */
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 6px;
+  background: #007bff;
+  color: white;
+  padding: 8px;
+  text-decoration: none;
+  border-radius: 4px;
+  z-index: 9999;
+}
+
+.skip-link:focus {
+  top: 6px;
+}
+
+/* Small Mobile (480px+) */
+@media (min-width: 480px) {
+  .container {
+    padding: 0 20px;
+  }
+
+  /* Improved button sizing */
+  .btn {
+    padding: 12px 20px;
+    font-size: 16px;
+  }
+
+  /* Better form layouts */
+  .form-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+  }
+
+  /* University cards in 2 columns */
+  .university-grid {
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 16px;
+  }
+}
+
+/* Tablet Portrait (768px+) */
+@media (min-width: 768px) {
+  .container {
+    padding: 0 24px;
+  }
+
+  /* Navigation improvements */
+  .nav-menu {
+    position: static;
+    flex-direction: row;
+    background: none;
+    box-shadow: none;
+    padding: 0;
+    width: auto;
+  }
+
+  .nav-toggle {
+    display: none;
+  }
+
+  /* Search layout improvements */
+  .search-layout {
+    grid-template-columns: 280px 1fr;
+    gap: 24px;
+  }
+
+  .filter-panel {
+    position: sticky;
+    top: 20px;
+    width: 280px;
+  }
+
+  /* University grid responsive */
+  .university-grid {
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 20px;
+  }
+
+  /* Form improvements */
+  .form-row {
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+  }
+
+  /* University detail layout */
+  .detail-grid {
+    grid-template-columns: 1fr 300px;
+    gap: 24px;
+  }
+
+  .detail-sidebar {
+    order: 0;
+  }
+}
+
+/* Tablet Landscape (1024px+) */
+@media (min-width: 1024px) {
+  .container {
+    padding: 0 32px;
+  }
+
+  /* Enhanced search layout */
+  .search-layout {
+    grid-template-columns: 320px 1fr;
+    gap: 32px;
+  }
+
+  .filter-panel {
+    width: 320px;
+  }
+
+  /* Better university grid */
+  .university-grid {
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    gap: 24px;
+  }
+
+  /* Enhanced detail layout */
+  .detail-grid {
+    grid-template-columns: 1fr 350px;
+    gap: 32px;
+  }
+
+  /* Improved stats grids */
+  .requirements-grid,
+  .stats-grid,
+  .fields-grid {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 16px;
+  }
+}
+
+/* Mobile-specific styles (max-width: 767px) */
+@media (max-width: 767px) {
+  .container {
+    padding: 0 16px;
+  }
+
+  /* Enhanced hero section for mobile */
+  .hero-section {
+    padding: 2rem 0;
+    text-align: center;
+  }
+
+  .hero-title {
+    font-size: 2rem;
+    line-height: 1.2;
+    margin-bottom: 1rem;
+  }
+
+  .hero-subtitle {
+    font-size: 1rem;
+    line-height: 1.4;
+    margin-bottom: 1.5rem;
+  }
+
+  /* Mobile navigation enhancements */
+  .navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+  }
+
+  .nav-container {
+    height: 60px;
+    padding: 0 16px;
+  }
+
+  .nav-menu {
+    position: fixed;
+    top: 60px;
+    left: -100%;
+    width: 100%;
+    height: calc(100vh - 60px);
+    background: white;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: stretch;
+    padding: 2rem 0;
+    transition: left 0.3s ease;
+    overflow-y: auto;
+  }
+
+  .nav-menu.active {
+    left: 0;
+  }
+
+  .nav-link {
+    padding: 16px 24px;
+    border-bottom: 1px solid #f0f0f0;
+    text-align: left;
+    font-size: 18px;
+  }
+
+  .nav-toggle {
+    display: flex;
+  }
+
+  /* Add padding to body when nav is fixed */
+  body {
+    padding-top: 60px;
+  }
+
+  /* Search page mobile */
+  .search-header {
+    padding: 24px 0;
+  }
+
+  .search-header h1 {
+    font-size: 2rem;
+  }
+
+  .search-controls {
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .sort-controls {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  /* Filter panel mobile overlay */
+  .filter-panel {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100vh;
+    z-index: 1000;
+    border-radius: 0;
+    display: none;
+  }
+
+  .filter-panel.visible {
+    display: block;
+  }
+
+  .filter-content {
+    max-height: calc(100vh - 80px);
+  }
+
+  /* Search bar mobile */
+  .search-input-container {
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .search-input-wrapper {
+    width: 100%;
+  }
+
+  .search-submit-btn {
+    width: 100%;
+  }
+
+  /* University grid mobile */
+  .university-grid {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+
+  /* University card mobile */
+  .university-card {
+    padding: 16px;
+  }
+
+  .requirements-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .cost-info {
+    padding: 10px;
+  }
+
+  /* Filter panel mobile */
+  .range-inputs {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .range-inputs span {
+    text-align: center;
+    margin: 4px 0;
+  }
+
+  /* Pagination mobile */
+  .pagination-controls {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .pagination-numbers {
+    order: -1;
+    margin-bottom: 8px;
+  }
+
+  /* University detail mobile */
+  .university-header {
+    padding: 20px;
+  }
+
+  .university-name {
+    font-size: 2rem;
+  }
+
+  .detail-header {
+    flex-direction: column;
+    gap: 16px;
+    align-items: stretch;
+  }
+
+  .header-actions {
+    justify-content: center;
+  }
+
+  .requirements-grid,
+  .stats-grid,
+  .fields-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .detail-section {
+    padding: 16px;
+  }
+
+  .sidebar-section {
+    padding: 16px;
+  }
+
+  /* Forms mobile */
+  .auth-form {
+    margin: 1rem;
+    padding: 1.5rem;
+  }
+
+  .form-row {
+    grid-template-columns: 1fr;
+  }
+
+  .form-actions {
+    flex-direction: column;
+  }
+}
+
+/* Mobile styles */
+@media (max-width: 480px) {
+  .container {
+    padding: 0 12px;
+  }
+
+  /* Hero section */
+  .hero-section {
+    padding: 2rem 0;
+  }
+
+  .hero-title {
+    font-size: 1.75rem;
+  }
+
+  /* Cards */
+  .card {
+    padding: 1rem;
+  }
+
+  /* Buttons */
+  .btn {
+    width: 100%;
+    margin-bottom: 0.5rem;
+    padding: 12px 16px;
+    font-size: 14px;
+  }
+
+  /* Form inputs */
+  .form-input {
+    font-size: 16px;
+    /* Prevents zoom on iOS */
+    padding: 12px;
+  }
+
+  /* Navigation */
+  .nav-links {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  /* Search page */
+  .search-content {
+    padding: 16px 0;
+  }
+
+  .search-header h1 {
+    font-size: 1.75rem;
+  }
+
+  /* University cards */
+  .university-card {
+    padding: 12px;
+  }
+
+  .university-name {
+    font-size: 16px;
+  }
+
+  .cost-info {
+    padding: 8px;
+  }
+
+  .cost-item {
+    font-size: 12px;
+  }
+
+  .requirement-item {
+    font-size: 11px;
+  }
+
+  /* University detail */
+  .university-detail-page {
+    padding: 16px 0;
+  }
+
+  .university-header {
+    margin-bottom: 16px;
+    padding: 16px;
+  }
+
+  .university-name {
+    font-size: 1.75rem;
+  }
+
+  .detail-main {
+    gap: 16px;
+  }
+
+  .detail-sidebar {
+    gap: 16px;
+  }
+
+  /* Filter panel */
+  .filter-header {
+    padding: 12px 16px;
+  }
+
+  .section-content {
+    padding: 0 16px 12px 16px;
+  }
+
+  /* Search suggestions */
+  .search-suggestions {
+    max-height: 200px;
+  }
+
+  .suggestion-item {
+    padding: 10px 12px;
+  }
+
+  .suggestion-name {
+    font-size: 14px;
+  }
+
+  .suggestion-location {
+    font-size: 12px;
+  }
+}
+
+/* Large screen optimizations */
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1400px;
+    padding: 0 24px;
+  }
+
+  .search-results {
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  }
+
+  .university-grid {
+    grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+    gap: 28px;
+  }
+
+  .university-stats {
+    justify-content: space-around;
+  }
+
+  .detail-grid {
+    grid-template-columns: 1fr 400px;
+    gap: 40px;
+  }
+
+  .filter-panel {
+    width: 320px;
+  }
+}
+
+/* Extra large screens */
+@media (min-width: 1600px) {
+  .container {
+    max-width: 1600px;
+  }
+
+  .university-grid {
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+    gap: 32px;
+  }
+
+  .search-layout {
+    grid-template-columns: 350px 1fr;
+    gap: 40px;
+  }
+}
+
+/* Touch device optimizations */
+@media (hover: none) and (pointer: coarse) {
+
+  /* Increase touch targets for better usability */
+  .btn,
+  button,
+  input[type="button"],
+  input[type="submit"],
+  input[type="reset"] {
+    min-height: 48px;
+    padding: 14px 24px;
+    font-size: 16px;
+  }
+
+  .checkbox-item,
+  .radio-item {
+    padding: 12px 0;
+    min-height: 48px;
+    display: flex;
+    align-items: center;
+  }
+
+  .suggestion-item {
+    padding: 16px 20px;
+    min-height: 48px;
+  }
+
+  .university-card {
+    padding: 20px;
+    border-radius: 12px;
+  }
+
+  /* Enhanced form inputs for touch */
+  .form-input,
+  input,
+  select,
+  textarea {
+    min-height: 48px;
+    padding: 12px 16px;
+    font-size: 16px;
+    /* Prevents zoom on iOS */
+    border-radius: 8px;
+  }
+
+  /* Remove hover effects that don't work on touch */
+  .university-card:hover {
+    transform: none;
+    box-shadow: 0 2px 8px rgba(0, 123, 255, 0.1);
+  }
+
+  .btn:hover {
+    transform: none;
+  }
+
+  .nav-link:hover {
+    background-color: transparent;
+  }
+
+  /* Add active states for touch feedback */
+  .btn:active {
+    transform: scale(0.98);
+    transition: transform 0.1s ease;
+  }
+
+  .university-card:active {
+    transform: scale(0.99);
+    transition: transform 0.1s ease;
+  }
+
+  /* Improve scrolling on touch devices */
+  .filter-content,
+  .search-suggestions,
+  .comparison-table-container {
+    -webkit-overflow-scrolling: touch;
+    scroll-behavior: smooth;
+  }
+}
+
+/* High DPI displays */
+@media (-webkit-min-device-pixel-ratio: 2),
+(min-resolution: 192dpi) {
+  .loading-spinner .spinner {
+    border-width: 1px;
+  }
+
+  .university-card {
+    border-width: 1px;
+  }
+}
+
+/* Accessibility and WCAG 2.1 AA Compliance */
+
+/* Reduced motion preferences */
+@media (prefers-reduced-motion: reduce) {
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+
+  .loading-spinner .spinner {
+    animation: none;
+    border-top-color: transparent;
+  }
+
+  .university-card:hover {
+    transform: none;
+  }
+
+  .btn:active {
+    transform: none;
+  }
+}
+
+/* High contrast mode support */
+@media (prefers-contrast: high) {
+  .btn {
+    border: 2px solid currentColor;
+  }
+
+  .university-card {
+    border: 2px solid #333;
+  }
+
+  .form-input:focus {
+    border: 3px solid #007bff;
+  }
+
+  .nav-link.active {
+    border: 2px solid #007bff;
+  }
+}
+
+/* Screen reader only content */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.sr-only-focusable:focus {
+  position: static;
+  width: auto;
+  height: auto;
+  padding: inherit;
+  margin: inherit;
+  overflow: visible;
+  clip: auto;
+  white-space: normal;
+}
+
+/* Enhanced focus indicators */
+.btn:focus,
+.form-input:focus,
+.nav-link:focus,
+.university-card:focus,
+.checkbox-item:focus-within,
+.suggestion-item:focus {
+  outline: 3px solid #007bff;
+  outline-offset: 2px;
+  box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.25);
+}
+
+/* Ensure sufficient color contrast */
+.text-muted {
+  color: #6c757d !important;
+  /* Meets WCAG AA contrast ratio */
+}
+
+.text-secondary {
+  color: #495057 !important;
+  /* Meets WCAG AA contrast ratio */
+}
+
+/* Error states with sufficient contrast */
+.form-input.error {
+  border-color: #dc3545;
+  background-color: #fff5f5;
+}
+
+.error-message {
+  color: #721c24;
+  /* Higher contrast red */
+  background-color: #f8d7da;
+  padding: 8px 12px;
+  border-radius: 4px;
+  border: 1px solid #f5c6cb;
+}
+
+/* Success states with sufficient contrast */
+.success-message {
+  color: #155724;
+  /* Higher contrast green */
+  background-color: #d4edda;
+  padding: 8px 12px;
+  border-radius: 4px;
+  border: 1px solid #c3e6cb;
+}
+
+/* Loading states accessibility */
+.loading-spinner[aria-label]::after {
+  content: attr(aria-label);
+  position: absolute;
+  left: -9999px;
+}
+
+/* Form labels and descriptions */
+.form-label {
+  font-weight: 600;
+  margin-bottom: 8px;
+  color: #212529;
+}
+
+.form-description {
+  font-size: 14px;
+  color: #6c757d;
+  margin-top: 4px;
+  line-height: 1.4;
+}
+
+/* Required field indicators */
+.form-label.required::after {
+  content: " *";
+  color: #dc3545;
+  font-weight: bold;
+}
+
+/* Keyboard navigation improvements */
+.university-card:focus {
+  cursor: pointer;
+}
+
+.filter-panel:focus-within {
+  border-color: #007bff;
+}
+
+/* Modal accessibility */
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1050;
+}
+
+.modal[aria-hidden="true"] {
+  display: none;
+}
+
+/* Ensure interactive elements are keyboard accessible */
+.university-card[tabindex="0"]:focus {
+  outline: 3px solid #007bff;
+  outline-offset: 2px;
+}
+
+/* Print styles for accessibility */
+@media print {
+
+  .nav-toggle,
+  .filter-panel,
+  .btn:not(.btn-print),
+  .loading-spinner {
+    display: none !important;
+  }
+
+  .university-card {
+    break-inside: avoid;
+    border: 1px solid #000;
+    margin-bottom: 1rem;
+  }
+
+  a[href]:after {
+    content: " (" attr(href) ")";
+    font-size: 12px;
+    color: #666;
+  }
+}
+
+/* Dark mode support (if needed in future) */
+@media (prefers-color-scheme: dark) {
+  /* Dark mode styles can be added here */
+}

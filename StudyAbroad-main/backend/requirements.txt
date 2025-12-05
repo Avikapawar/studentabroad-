@@ -1,0 +1,41 @@
+# Core Flask dependencies
+Flask==2.3.3
+Flask-CORS==4.0.0
+Flask-SQLAlchemy==3.0.5
+Werkzeug==2.3.7
+
+# Firebase dependencies
+firebase-admin==6.2.0
+google-cloud-firestore==2.11.1
+
+# Data processing
+pandas==2.0.3
+numpy==1.24.3
+scikit-learn==1.3.0
+
+# API and HTTP
+requests==2.31.0
+urllib3==2.0.4
+
+# JSON and data handling
+jsonschema==4.19.0
+
+# Development and testing
+pytest==7.4.2
+pytest-flask==1.2.0
+
+# Environment management
+python-dotenv==1.0.0
+
+# Date and time handling
+python-dateutil==2.8.2
+
+# Logging
+colorlog==6.7.0
+
+# Optional: For enhanced search capabilities
+whoosh==2.7.4
+
+# Optional: For caching
+redis==4.6.0
+flask-caching==2.1.0
