@@ -1,0 +1,246 @@
+.admission-probability-indicator {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+}
+
+.admission-probability-indicator.small {
+  gap: 4px;
+}
+
+.admission-probability-indicator.large {
+  gap: 12px;
+}
+
+.probability-label {
+  font-size: 0.8rem;
+  color: #6c757d;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  font-weight: 500;
+}
+
+.admission-probability-indicator.small .probability-label {
+  font-size: 0.7rem;
+}
+
+.admission-probability-indicator.large .probability-label {
+  font-size: 0.9rem;
+}
+
+.probability-display {
+  position: relative;
+}
+
+.probability-circle {
+  position: relative;
+  display: inline-block;
+}
+
+.probability-svg {
+  width: 80px;
+  height: 80px;
+  transform: rotate(-90deg);
+}
+
+.admission-probability-indicator.small .probability-svg {
+  width: 60px;
+  height: 60px;
+}
+
+.admission-probability-indicator.large .probability-svg {
+  width: 100px;
+  height: 100px;
+}
+
+.circle-bg {
+  fill: none;
+  stroke: #e9ecef;
+  stroke-width: 3;
+}
+
+.circle-progress {
+  fill: none;
+  stroke-width: 3;
+  stroke-linecap: round;
+  transition: stroke-dasharray 0.6s ease-in-out;
+}
+
+/* Color variations based on probability level */
+.admission-probability-indicator.high .circle-progress {
+  stroke: #28a745;
+}
+
+.admission-probability-indicator.medium .circle-progress {
+  stroke: #ffc107;
+}
+
+.admission-probability-indicator.low .circle-progress {
+  stroke: #dc3545;
+}
+
+.probability-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  pointer-events: none;
+}
+
+.probability-percentage {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #2c3e50;
+  line-height: 1;
+}
+
+.admission-probability-indicator.small .probability-percentage {
+  font-size: 0.9rem;
+}
+
+.admission-probability-indicator.large .probability-percentage {
+  font-size: 1.3rem;
+}
+
+.probability-level {
+  font-size: 0.7rem;
+  color: #6c757d;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+  margin-top: 2px;
+}
+
+.admission-probability-indicator.small .probability-level {
+  font-size: 0.6rem;
+}
+
+.admission-probability-indicator.large .probability-level {
+  font-size: 0.8rem;
+}
+
+.confidence-indicator {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 0.75rem;
+  color: #6c757d;
+}
+
+.admission-probability-indicator.small .confidence-indicator {
+  font-size: 0.7rem;
+}
+
+.admission-probability-indicator.large .confidence-indicator {
+  font-size: 0.8rem;
+}
+
+.confidence-icon {
+  font-size: 0.9rem;
+}
+
+.confidence-text {
+  text-transform: capitalize;
+}
+
+/* Color variations for text based on probability level */
+.admission-probability-indicator.high .probability-percentage {
+  color: #28a745;
+}
+
+.admission-probability-indicator.high .probability-level {
+  color: #28a745;
+}
+
+.admission-probability-indicator.medium .probability-percentage {
+  color: #ffc107;
+}
+
+.admission-probability-indicator.medium .probability-level {
+  color: #ffc107;
+}
+
+.admission-probability-indicator.low .probability-percentage {
+  color: #dc3545;
+}
+
+.admission-probability-indicator.low .probability-level {
+  color: #dc3545;
+}
+
+/* Animation for the progress circle */
+@keyframes drawCircle {
+  from {
+    stroke-dasharray: 0, 100;
+  }
+}
+
+.circle-progress {
+  animation: drawCircle 1s ease-out;
+}
+
+/* Hover effects */
+.admission-probability-indicator:hover .probability-svg {
+  transform: rotate(-90deg) scale(1.05);
+  transition: transform 0.2s ease;
+}
+
+.admission-probability-indicator:hover .probability-percentage {
+  transform: scale(1.1);
+  transition: transform 0.2s ease;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .probability-svg {
+    width: 70px;
+    height: 70px;
+  }
+  
+  .admission-probability-indicator.small .probability-svg {
+    width: 50px;
+    height: 50px;
+  }
+  
+  .admission-probability-indicator.large .probability-svg {
+    width: 85px;
+    height: 85px;
+  }
+  
+  .probability-percentage {
+    font-size: 1rem;
+  }
+  
+  .admission-probability-indicator.small .probability-percentage {
+    font-size: 0.8rem;
+  }
+  
+  .admission-probability-indicator.large .probability-percentage {
+    font-size: 1.2rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .probability-svg {
+    width: 60px;
+    height: 60px;
+  }
+  
+  .admission-probability-indicator.small .probability-svg {
+    width: 45px;
+    height: 45px;
+  }
+  
+  .admission-probability-indicator.large .probability-svg {
+    width: 75px;
+    height: 75px;
+  }
+  
+  .confidence-indicator {
+    flex-direction: column;
+    gap: 2px;
+    text-align: center;
+  }
+}

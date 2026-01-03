@@ -1,0 +1,32 @@
+{
+  "name": "student-abroad-platform",
+  "version": "1.0.0",
+  "description": "A comprehensive platform for students to find universities worldwide",
+  "main": "index.js",
+  "scripts": {
+    "install-all": "npm run install-frontend && npm run install-backend",
+    "install-frontend": "cd frontend && npm install",
+    "install-backend": "cd backend && pip install -r requirements.txt",
+    "start": "concurrently \"npm run start-backend\" \"npm run start-frontend\"",
+    "start-frontend": "cd frontend && npm start",
+    "start-backend": "cd backend && python app.py",
+    "build": "cd frontend && npm run build",
+    "test": "npm run test-frontend",
+    "test-frontend": "cd frontend && npm test -- --run"
+  },
+  "keywords": [
+    "education",
+    "university",
+    "students",
+    "recommendations",
+    "machine-learning"
+  ],
+  "author": "Student Abroad Platform Team",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  },
+  "dependencies": {
+    "lucide-react": "^0.545.0"
+  }
+}

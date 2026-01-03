@@ -1,0 +1,5094 @@
+[
+  {
+    "id": 127,
+    "name": "Massachusetts Institute of Technology",
+    "country": "US",
+    "city": "Cambridge",
+    "ranking": 1,
+    "tuitionFee": 59750,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0,
+    "tuition_updated": "2026-01-02T18:10:58.453631",
+    "website": "https://web.mit.edu"
+  },
+  {
+    "id": 31,
+    "name": "Imperial College London",
+    "country": "UK",
+    "city": "London",
+    "ranking": 2,
+    "tuitionFee": 45000,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0,
+    "tuition_updated": "2026-01-02T18:10:58.455251",
+    "website": "https://www.imperial.ac.uk",
+    "min_gre": 320,
+    "min_ielts": 7.0,
+    "min_toefl": 100,
+    "min_cgpa": 3.7,
+    "requirements_updated": "2026-01-02T18:10:58.547537"
+  },
+  {
+    "id": 113,
+    "name": "Stanford University",
+    "country": "US",
+    "city": "Stanford",
+    "ranking": 2,
+    "tuitionFee": 58416,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0,
+    "min_gre": 330,
+    "min_ielts": 7.5,
+    "min_toefl": 110,
+    "min_cgpa": 3.9,
+    "requirements_updated": "2026-01-02T18:10:58.548060",
+    "tuition_updated": "2026-01-02T18:10:58.458845",
+    "website": "https://www.stanford.edu"
+  },
+  {
+    "id": 157,
+    "name": "University of Cambridge",
+    "country": "UK",
+    "city": "Cambridge",
+    "ranking": 3,
+    "tuitionFee": 35000,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0,
+    "tuition_updated": "2026-01-02T18:10:58.463469",
+    "website": "https://www.cam.ac.uk",
+    "min_gre": 320,
+    "min_ielts": 7.5,
+    "min_toefl": 110,
+    "min_cgpa": 3.8,
+    "requirements_updated": "2026-01-02T18:10:58.548417"
+  },
+  {
+    "id": 8,
+    "name": "Harvard University",
+    "country": "US",
+    "city": "Cambridge",
+    "ranking": 4,
+    "tuitionFee": 56550,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0,
+    "min_gre": 325,
+    "min_ielts": 7.5,
+    "min_toefl": 109,
+    "min_cgpa": 3.9,
+    "requirements_updated": "2026-01-02T18:10:58.548683",
+    "tuition_updated": "2026-01-02T18:10:58.464634",
+    "website": "https://www.harvard.edu"
+  },
+  {
+    "id": 150,
+    "name": "University of Oxford",
+    "country": "UK",
+    "city": "Oxford",
+    "ranking": 5,
+    "tuitionFee": 35000,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0,
+    "tuition_updated": "2026-01-02T18:10:58.465270",
+    "website": "https://www.ox.ac.uk",
+    "min_gre": 325,
+    "min_ielts": 7.5,
+    "min_toefl": 110,
+    "min_cgpa": 3.8,
+    "requirements_updated": "2026-01-02T18:10:58.549048"
+  },
+  {
+    "id": 35,
+    "name": "ETH Zurich",
+    "country": "CH",
+    "city": "Zurich",
+    "ranking": 7,
+    "tuitionFee": 25000,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0,
+    "tuition_updated": "2026-01-02T18:10:58.466395",
+    "website": "https://ethz.ch"
+  },
+  {
+    "id": 23,
+    "name": "National University of Singapore",
+    "country": "SG",
+    "city": "Singapore",
+    "ranking": 8,
+    "tuitionFee": 35000,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0,
+    "tuition_updated": "2026-01-02T18:10:58.467847",
+    "website": "https://nus.edu.sg"
+  },
+  {
+    "id": 92,
+    "name": "University College London",
+    "country": "UK",
+    "city": "London",
+    "ranking": 9,
+    "tuitionFee": 40000,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0,
+    "tuition_updated": "2026-01-02T18:10:58.469466",
+    "website": "https://www.ucl.ac.uk",
+    "min_gre": 315,
+    "min_ielts": 7.0,
+    "min_toefl": 100,
+    "min_cgpa": 3.6,
+    "requirements_updated": "2026-01-02T18:10:58.549259"
+  },
+  {
+    "id": 117,
+    "name": "King's College London",
+    "country": "UK",
+    "city": "London",
+    "ranking": 9,
+    "tuitionFee": 38000,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0,
+    "tuition_updated": "2026-01-02T18:10:58.470719",
+    "website": "https://www.kcl.ac.uk",
+    "min_gre": 310,
+    "min_ielts": 7.0,
+    "min_toefl": 100,
+    "min_cgpa": 3.5,
+    "requirements_updated": "2026-01-02T18:10:58.549433"
+  },
+  {
+    "id": 137,
+    "name": "University of California, Berkeley",
+    "country": "US",
+    "city": "Berkeley",
+    "ranking": 10,
+    "tuitionFee": 46374,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0,
+    "tuition_updated": "2026-01-02T18:10:58.471729",
+    "website": "https://www.berkeley.edu"
+  },
+  {
+    "id": 116,
+    "name": "University of Chicago",
+    "country": "US",
+    "city": "Chicago",
+    "ranking": 11,
+    "tuitionFee": 64965,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0,
+    "tuition_updated": "2026-01-02T18:10:58.472445",
+    "website": "https://www.uchicago.edu"
+  },
+  {
+    "id": 83,
+    "name": "University of Pennsylvania",
+    "country": "US",
+    "city": "Philadelphia",
+    "ranking": 12,
+    "tuitionFee": 63452,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0,
+    "tuition_updated": "2026-01-02T18:10:58.473306",
+    "website": "https://www.upenn.edu"
+  },
+  {
+    "id": 42,
+    "name": "University of British Columbia",
+    "country": "CA",
+    "city": "Vancouver",
+    "ranking": 13,
+    "tuitionFee": 40000,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0,
+    "tuition_updated": "2026-01-02T18:10:58.474232",
+    "website": "https://www.ubc.ca"
+  },
+  {
+    "id": 122,
+    "name": "Cornell University",
+    "country": "US",
+    "city": "Ithaca",
+    "ranking": 13,
+    "tuitionFee": 63200,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0,
+    "tuition_updated": "2026-01-02T18:10:58.474831",
+    "website": "https://www.cornell.edu"
+  },
+  {
+    "id": 53,
+    "name": "University of Melbourne",
+    "country": "AU",
+    "city": "Melbourne",
+    "ranking": 14,
+    "tuitionFee": 35000,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0,
+    "tuition_updated": "2026-01-02T18:10:58.476164",
+    "website": "https://www.unimelb.edu.au"
+  },
+  {
+    "id": 64,
+    "name": "University of Heidelberg",
+    "country": "DE",
+    "city": "Heidelberg",
+    "ranking": 15,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 9,
+    "name": "Yale University",
+    "country": "US",
+    "city": "New Haven",
+    "ranking": 16,
+    "tuitionFee": 62250,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0,
+    "min_gre": 325,
+    "min_ielts": 7.0,
+    "min_toefl": 100,
+    "min_cgpa": 3.8,
+    "requirements_updated": "2026-01-02T18:10:58.549603",
+    "tuition_updated": "2026-01-02T18:10:58.476914",
+    "website": "https://www.yale.edu"
+  },
+  {
+    "id": 25,
+    "name": "Peking University",
+    "country": "CN",
+    "city": "Beijing",
+    "ranking": 17,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 20,
+    "name": "Princeton University",
+    "country": "US",
+    "city": "Princeton",
+    "ranking": 18,
+    "tuitionFee": 59710,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0,
+    "min_gre": 330,
+    "min_ielts": 7.0,
+    "min_toefl": 108,
+    "min_cgpa": 3.9,
+    "requirements_updated": "2026-01-02T18:10:58.549767",
+    "tuition_updated": "2026-01-02T18:10:58.477653",
+    "website": "https://www.princeton.edu"
+  },
+  {
+    "id": 120,
+    "name": "University of New South Wales",
+    "country": "AU",
+    "city": "Sydney",
+    "ranking": 19,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 114,
+    "name": "University of Sydney",
+    "country": "AU",
+    "city": "Sydney",
+    "ranking": 20,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 168,
+    "name": "University of Toronto",
+    "country": "CA",
+    "city": "Toronto",
+    "ranking": 21,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 123,
+    "name": "University of Edinburgh",
+    "country": "UK",
+    "city": "Edinburgh",
+    "ranking": 22,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0,
+    "website": "https://www.ed.ac.uk",
+    "min_gre": 310,
+    "min_ielts": 7.0,
+    "min_toefl": 100,
+    "min_cgpa": 3.4,
+    "requirements_updated": "2026-01-02T18:10:58.549926"
+  },
+  {
+    "id": 75,
+    "name": "Columbia University",
+    "country": "US",
+    "city": "New York",
+    "ranking": 23,
+    "tuitionFee": 65524,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0,
+    "tuition_updated": "2026-01-02T18:10:58.478847",
+    "website": "https://www.columbia.edu"
+  },
+  {
+    "id": 118,
+    "name": "University of Waterloo",
+    "country": "CA",
+    "city": "Waterloo",
+    "ranking": 23,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 24,
+    "name": "Tsinghua University",
+    "country": "CN",
+    "city": "Beijing",
+    "ranking": 25,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 68,
+    "name": "University of Virginia",
+    "country": "US",
+    "city": "Charlottesville",
+    "ranking": 25,
+    "tuitionFee": 56837,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0,
+    "tuition_updated": "2026-01-02T18:10:58.479621",
+    "website": "https://www.virginia.edu"
+  },
+  {
+    "id": 121,
+    "name": "RWTH Aachen University",
+    "country": "DE",
+    "city": "Aachen",
+    "ranking": 25,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 41,
+    "name": "Nanyang Technological University",
+    "country": "SG",
+    "city": "Singapore",
+    "ranking": 26,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 210,
+    "name": "Nanyang Technological University Singapore",
+    "country": "Singapore",
+    "city": "Singapore",
+    "ranking": 26,
+    "tuitionFee": 18000,
+    "programs": [
+      "Engineering",
+      "Business",
+      "Computer Science",
+      "Design"
+    ],
+    "description": "Young innovative university, ranked among world's best.",
+    "acceptanceRate": 15,
+    "internationalStudents": 8000
+  },
+  {
+    "id": 21,
+    "name": "University of Tokyo",
+    "country": "JP",
+    "city": "Tokyo",
+    "ranking": 28,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 124,
+    "name": "University of Alberta",
+    "country": "CA",
+    "city": "Edmonton",
+    "ranking": 28,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 153,
+    "name": "University of California, Los Angeles",
+    "country": "US",
+    "city": "Los Angeles",
+    "ranking": 29,
+    "tuitionFee": 46326,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0,
+    "tuition_updated": "2026-01-02T18:10:58.484699",
+    "website": "https://www.ucla.edu"
+  },
+  {
+    "id": 101,
+    "name": "McGill University",
+    "country": "CA",
+    "city": "Montreal",
+    "ranking": 30,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 128,
+    "name": "University of Munich",
+    "country": "DE",
+    "city": "Munich",
+    "ranking": 30,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 129,
+    "name": "Duke University",
+    "country": "US",
+    "city": "Durham",
+    "ranking": 31,
+    "tuitionFee": 63450,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0,
+    "tuition_updated": "2026-01-02T18:10:58.486135",
+    "website": "https://www.duke.edu"
+  },
+  {
+    "id": 134,
+    "name": "University of Manchester",
+    "country": "UK",
+    "city": "Manchester",
+    "ranking": 31,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0,
+    "website": "https://www.manchester.ac.uk",
+    "min_gre": 305,
+    "min_ielts": 6.5,
+    "min_toefl": 90,
+    "min_cgpa": 3.3,
+    "requirements_updated": "2026-01-02T18:10:58.550130"
+  },
+  {
+    "id": 182,
+    "name": "Australian National University",
+    "country": "AU",
+    "city": "Canberra",
+    "ranking": 32,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 130,
+    "name": "London School of Economics",
+    "country": "UK",
+    "city": "London",
+    "ranking": 33,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 43,
+    "name": "Fudan University",
+    "country": "CN",
+    "city": "Shanghai",
+    "ranking": 34,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 132,
+    "name": "Karlsruhe Institute of Technology",
+    "country": "DE",
+    "city": "Karlsruhe",
+    "ranking": 35,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 52,
+    "name": "EPFL",
+    "country": "CH",
+    "city": "Lausanne",
+    "ranking": 36,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 198,
+    "name": "Technical University of Munich",
+    "country": "DE",
+    "city": "Munich",
+    "ranking": 37,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 44,
+    "name": "École Polytechnique",
+    "country": "FR",
+    "city": "Palaiseau",
+    "ranking": 38,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 66,
+    "name": "University of California, Davis",
+    "country": "US",
+    "city": "Davis",
+    "ranking": 38,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 135,
+    "name": "McMaster University",
+    "country": "CA",
+    "city": "Hamilton",
+    "ranking": 38,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 136,
+    "name": "University of Adelaide",
+    "country": "AU",
+    "city": "Adelaide",
+    "ranking": 39,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 138,
+    "name": "Humboldt University of Berlin",
+    "country": "DE",
+    "city": "Berlin",
+    "ranking": 40,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 22,
+    "name": "Seoul National University",
+    "country": "KR",
+    "city": "Seoul",
+    "ranking": 41,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 140,
+    "name": "Johns Hopkins University",
+    "country": "US",
+    "city": "Baltimore",
+    "ranking": 41,
+    "tuitionFee": 60480,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0,
+    "tuition_updated": "2026-01-02T18:10:58.487191",
+    "website": "https://www.jhu.edu"
+  },
+  {
+    "id": 125,
+    "name": "Monash University",
+    "country": "AU",
+    "city": "Melbourne",
+    "ranking": 42,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 131,
+    "name": "University of Queensland",
+    "country": "AU",
+    "city": "Brisbane",
+    "ranking": 43,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 142,
+    "name": "University of Ottawa",
+    "country": "CA",
+    "city": "Ottawa",
+    "ranking": 43,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 26,
+    "name": "Sorbonne University",
+    "country": "FR",
+    "city": "Paris",
+    "ranking": 44,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 67,
+    "name": "Georgia Institute of Technology",
+    "country": "US",
+    "city": "Atlanta",
+    "ranking": 44,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 143,
+    "name": "University of Western Australia",
+    "country": "AU",
+    "city": "Perth",
+    "ranking": 44,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 144,
+    "name": "Free University of Berlin",
+    "country": "DE",
+    "city": "Berlin",
+    "ranking": 45,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 60,
+    "name": "Shanghai Jiao Tong University",
+    "country": "CN",
+    "city": "Shanghai",
+    "ranking": 46,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 145,
+    "name": "Rice University",
+    "country": "US",
+    "city": "Houston",
+    "ranking": 46,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 161,
+    "name": "Kyoto University",
+    "country": "JP",
+    "city": "Kyoto",
+    "ranking": 46,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 29,
+    "name": "Delft University of Technology",
+    "country": "NL",
+    "city": "Delft",
+    "ranking": 47,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 79,
+    "name": "Chinese University of Hong Kong",
+    "country": "HK",
+    "city": "Hong Kong",
+    "ranking": 47,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 133,
+    "name": "Northwestern University",
+    "country": "US",
+    "city": "Evanston",
+    "ranking": 48,
+    "tuitionFee": 63468,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0,
+    "tuition_updated": "2026-01-02T18:10:58.489888",
+    "website": "https://www.northwestern.edu"
+  },
+  {
+    "id": 146,
+    "name": "Queen's University",
+    "country": "CA",
+    "city": "Kingston",
+    "ranking": 48,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 152,
+    "name": "University of Glasgow",
+    "country": "UK",
+    "city": "Glasgow",
+    "ranking": 49,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0,
+    "website": "https://www.gla.ac.uk"
+  },
+  {
+    "id": 47,
+    "name": "University of Amsterdam",
+    "country": "NL",
+    "city": "Amsterdam",
+    "ranking": 51,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 151,
+    "name": "Vanderbilt University",
+    "country": "US",
+    "city": "Nashville",
+    "ranking": 51,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 33,
+    "name": "University of Copenhagen",
+    "country": "DK",
+    "city": "Copenhagen",
+    "ranking": 52,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 141,
+    "name": "University of Bristol",
+    "country": "UK",
+    "city": "Bristol",
+    "ranking": 55,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0,
+    "website": "https://www.bristol.ac.uk",
+    "min_gre": 300,
+    "min_ielts": 6.5,
+    "min_toefl": 90,
+    "min_cgpa": 3.2,
+    "requirements_updated": "2026-01-02T18:10:58.550905"
+  },
+  {
+    "id": 40,
+    "name": "KAIST",
+    "country": "KR",
+    "city": "Daejeon",
+    "ranking": 56,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 154,
+    "name": "University of Michigan",
+    "country": "US",
+    "city": "Ann Arbor",
+    "ranking": 58,
+    "tuitionFee": 53232,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0,
+    "tuition_updated": "2026-01-02T18:10:58.492689",
+    "website": "https://umich.edu"
+  },
+  {
+    "id": 158,
+    "name": "Karolinska Institute",
+    "country": "SE",
+    "city": "Stockholm",
+    "ranking": 60,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 159,
+    "name": "University of California, San Diego",
+    "country": "US",
+    "city": "San Diego",
+    "ranking": 61,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 69,
+    "name": "University of Warwick",
+    "country": "UK",
+    "city": "Coventry",
+    "ranking": 64,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0,
+    "website": "https://warwick.ac.uk",
+    "min_gre": 305,
+    "min_ielts": 6.5,
+    "min_toefl": 92,
+    "min_cgpa": 3.3,
+    "requirements_updated": "2026-01-02T18:10:58.553220"
+  },
+  {
+    "id": 160,
+    "name": "École Polytechnique Fédérale de Lausanne",
+    "country": "CH",
+    "city": "Lausanne",
+    "ranking": 64,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 100,
+    "name": "University of Malaya",
+    "country": "MY",
+    "city": "Kuala Lumpur",
+    "ranking": 65,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 106,
+    "name": "University of Buenos Aires",
+    "country": "AR",
+    "city": "Buenos Aires",
+    "ranking": 67,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 162,
+    "name": "École Normale Supérieure",
+    "country": "FR",
+    "city": "Paris",
+    "ranking": 67,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 38,
+    "name": "University of Auckland",
+    "country": "NZ",
+    "city": "Auckland",
+    "ranking": 68,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 164,
+    "name": "University of Texas at Austin",
+    "country": "US",
+    "city": "Austin",
+    "ranking": 68,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 36,
+    "name": "KU Leuven",
+    "country": "BE",
+    "city": "Leuven",
+    "ranking": 70,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 81,
+    "name": "City University of Hong Kong",
+    "country": "HK",
+    "city": "Hong Kong",
+    "ranking": 70,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 169,
+    "name": "Lund University",
+    "country": "SE",
+    "city": "Lund",
+    "ranking": 70,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 39,
+    "name": "Osaka University",
+    "country": "JP",
+    "city": "Osaka",
+    "ranking": 75,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 58,
+    "name": "Yonsei University",
+    "country": "KR",
+    "city": "Seoul",
+    "ranking": 76,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 313,
+    "name": "Technion - Israel Institute of Technology",
+    "country": "Israel",
+    "city": "Haifa",
+    "ranking": 77,
+    "tuitionFee": 11000,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Medicine",
+      "Architecture"
+    ],
+    "description": "Israel's leading technology university, known as the MIT of Israel.",
+    "acceptanceRate": 50,
+    "internationalStudents": 1200
+  },
+  {
+    "id": 57,
+    "name": "Tohoku University",
+    "country": "JP",
+    "city": "Sendai",
+    "ranking": 79,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 90,
+    "name": "University of São Paulo",
+    "country": "BR",
+    "city": "São Paulo",
+    "ranking": 85,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 96,
+    "name": "Moscow State University",
+    "country": "RU",
+    "city": "Moscow",
+    "ranking": 87,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 30,
+    "name": "KTH Royal Institute of Technology",
+    "country": "SE",
+    "city": "Stockholm",
+    "ranking": 89,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 315,
+    "name": "University of Science and Technology of China",
+    "country": "China",
+    "city": "Hefei",
+    "ranking": 94,
+    "tuitionFee": 4500,
+    "programs": [
+      "Physics",
+      "Computer Science",
+      "Engineering",
+      "Mathematics"
+    ],
+    "description": "Elite Chinese university focused on science and technology.",
+    "acceptanceRate": 5,
+    "internationalStudents": 1000
+  },
+  {
+    "id": 301,
+    "name": "Trinity College Dublin",
+    "country": "Ireland",
+    "city": "Dublin",
+    "ranking": 98,
+    "tuitionFee": 20000,
+    "programs": [
+      "Computer Science",
+      "Business",
+      "Medicine",
+      "Law"
+    ],
+    "description": "Ireland's oldest university with historic campus.",
+    "acceptanceRate": 35,
+    "internationalStudents": 3500
+  },
+  {
+    "id": 32,
+    "name": "University of Oslo",
+    "country": "NO",
+    "city": "Oslo",
+    "ranking": 101,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 50,
+    "name": "Technical University of Denmark",
+    "country": "DK",
+    "city": "Kongens Lyngby",
+    "ranking": 103,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 91,
+    "name": "National Autonomous University of Mexico",
+    "country": "MX",
+    "city": "Mexico City",
+    "ranking": 103,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 305,
+    "name": "University of California Santa Cruz",
+    "country": "United States",
+    "city": "Santa Cruz",
+    "ranking": 103,
+    "tuitionFee": 44000,
+    "programs": [
+      "Computer Science",
+      "Engineering",
+      "Marine Biology",
+      "Astronomy"
+    ],
+    "description": "UC campus known for tech and environmental sciences.",
+    "acceptanceRate": 47,
+    "internationalStudents": 2500
+  },
+  {
+    "id": 84,
+    "name": "University of Geneva",
+    "country": "CH",
+    "city": "Geneva",
+    "ranking": 105,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 34,
+    "name": "University of Helsinki",
+    "country": "FI",
+    "city": "Helsinki",
+    "ranking": 106,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 243,
+    "name": "King Abdullah University of Science and Technology",
+    "country": "Saudi Arabia",
+    "city": "Thuwal",
+    "ranking": 110,
+    "tuitionFee": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Environmental Science",
+      "Applied Mathematics"
+    ],
+    "description": "Graduate research university with full scholarships and stipends.",
+    "acceptanceRate": 10,
+    "internationalStudents": 4000
+  },
+  {
+    "id": 51,
+    "name": "Aalto University",
+    "country": "FI",
+    "city": "Espoo",
+    "ranking": 116,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 139,
+    "name": "University of Bern",
+    "country": "Switzerland",
+    "city": "Bern",
+    "ranking": 120,
+    "tuitionFee": 1600,
+    "programs": [
+      "Medicine",
+      "Law",
+      "Sciences",
+      "Veterinary Medicine"
+    ],
+    "description": "Comprehensive Swiss university in capital city.",
+    "acceptanceRate": 50,
+    "internationalStudents": 2000
+  },
+  {
+    "id": 105,
+    "name": "Pontifical Catholic University of Chile",
+    "country": "CL",
+    "city": "Santiago",
+    "ranking": 121,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 219,
+    "name": "Lancaster University",
+    "country": "United Kingdom",
+    "city": "Lancaster",
+    "ranking": 122,
+    "tuitionFee": 24000,
+    "programs": [
+      "Business",
+      "Engineering",
+      "Computer Science",
+      "Environmental Science"
+    ],
+    "description": "Campus university with strong business school.",
+    "acceptanceRate": 75,
+    "internationalStudents": 5000,
+    "website": "https://www.lancaster.ac.uk",
+    "min_gre": 300,
+    "min_ielts": 6.5,
+    "min_toefl": 90,
+    "min_cgpa": 3.2,
+    "requirements_updated": "2026-01-02T18:10:58.553729"
+  },
+  {
+    "id": 48,
+    "name": "Chalmers University of Technology",
+    "country": "SE",
+    "city": "Gothenburg",
+    "ranking": 125,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 78,
+    "name": "Eindhoven University of Technology",
+    "country": "NL",
+    "city": "Eindhoven",
+    "ranking": 125,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 65,
+    "name": "University of Groningen",
+    "country": "NL",
+    "city": "Groningen",
+    "ranking": 128,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 73,
+    "name": "University of Technology Sydney",
+    "country": "AU",
+    "city": "Sydney",
+    "ranking": 133,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 54,
+    "name": "Ghent University",
+    "country": "BE",
+    "city": "Ghent",
+    "ranking": 135,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 61,
+    "name": "CentraleSupélec",
+    "country": "FR",
+    "city": "Gif-sur-Yvette",
+    "ranking": 138,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 62,
+    "name": "Politecnico di Milano",
+    "country": "IT",
+    "city": "Milan",
+    "ranking": 139,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 165,
+    "name": "Universiti Sains Malaysia",
+    "country": "Malaysia",
+    "city": "Penang",
+    "ranking": 142,
+    "tuitionFee": 4000,
+    "programs": [
+      "Medicine",
+      "Engineering",
+      "Pharmacy",
+      "Sciences"
+    ],
+    "description": "Second oldest university in Malaysia.",
+    "acceptanceRate": 25,
+    "internationalStudents": 2500
+  },
+  {
+    "id": 213,
+    "name": "Aarhus University",
+    "country": "Denmark",
+    "city": "Aarhus",
+    "ranking": 145,
+    "tuitionFee": 0,
+    "programs": [
+      "Business",
+      "Engineering",
+      "Medicine",
+      "Sciences"
+    ],
+    "description": "Second largest university in Denmark with strong research.",
+    "acceptanceRate": 40,
+    "internationalStudents": 3000
+  },
+  {
+    "id": 82,
+    "name": "Stockholm University",
+    "country": "SE",
+    "city": "Stockholm",
+    "ranking": 148,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 275,
+    "name": "University of Bath",
+    "country": "United Kingdom",
+    "city": "Bath",
+    "ranking": 148,
+    "tuitionFee": 24000,
+    "programs": [
+      "Engineering",
+      "Architecture",
+      "Business",
+      "Sciences"
+    ],
+    "description": "Campus university in historic Bath.",
+    "acceptanceRate": 65,
+    "internationalStudents": 4500,
+    "website": "https://www.bath.ac.uk"
+  },
+  {
+    "id": 37,
+    "name": "University of Vienna",
+    "country": "AT",
+    "city": "Vienna",
+    "ranking": 151,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 295,
+    "name": "University of Rochester",
+    "country": "United States",
+    "city": "Rochester",
+    "ranking": 154,
+    "tuitionFee": 59344,
+    "programs": [
+      "Engineering",
+      "Business",
+      "Medicine",
+      "Music"
+    ],
+    "description": "Private research university with strong optics and music programs.",
+    "acceptanceRate": 41,
+    "internationalStudents": 3500
+  },
+  {
+    "id": 276,
+    "name": "Monterrey Institute of Technology",
+    "country": "Mexico",
+    "city": "Monterrey",
+    "ranking": 155,
+    "tuitionFee": 12000,
+    "programs": [
+      "Engineering",
+      "Business",
+      "Computer Science",
+      "Design"
+    ],
+    "description": "Leading private Mexican university with strong industry connections.",
+    "acceptanceRate": 45,
+    "internationalStudents": 3200
+  },
+  {
+    "id": 195,
+    "name": "École Normale Supérieure de Lyon",
+    "country": "France",
+    "city": "Lyon",
+    "ranking": 160,
+    "tuitionFee": 0,
+    "programs": [
+      "Sciences",
+      "Mathematics",
+      "Computer Science",
+      "Humanities"
+    ],
+    "description": "Elite French grande école for sciences and humanities.",
+    "acceptanceRate": 5,
+    "internationalStudents": 500
+  },
+  {
+    "id": 70,
+    "name": "University of York",
+    "country": "UK",
+    "city": "York",
+    "ranking": 162,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0,
+    "website": "https://www.york.ac.uk"
+  },
+  {
+    "id": 222,
+    "name": "University of Exeter",
+    "country": "United Kingdom",
+    "city": "Exeter",
+    "ranking": 163,
+    "tuitionFee": 23500,
+    "programs": [
+      "Business",
+      "Medicine",
+      "Engineering",
+      "Environmental Science"
+    ],
+    "description": "Russell Group university in southwest England.",
+    "acceptanceRate": 75,
+    "internationalStudents": 6000,
+    "website": "https://www.exeter.ac.uk"
+  },
+  {
+    "id": 235,
+    "name": "Tecnológico de Monterrey",
+    "country": "Mexico",
+    "city": "Mexico City",
+    "ranking": 170,
+    "tuitionFee": 12000,
+    "programs": [
+      "Engineering",
+      "Business",
+      "Architecture",
+      "Design"
+    ],
+    "description": "Leading private Mexican university with multiple campuses.",
+    "acceptanceRate": 40,
+    "internationalStudents": 5000
+  },
+  {
+    "id": 273,
+    "name": "Western University",
+    "country": "Canada",
+    "city": "London",
+    "ranking": 170,
+    "tuitionFee": 32000,
+    "programs": [
+      "Business",
+      "Medicine",
+      "Engineering",
+      "Law"
+    ],
+    "description": "Leading Canadian research university with strong business school.",
+    "acceptanceRate": 58,
+    "internationalStudents": 5000
+  },
+  {
+    "id": 45,
+    "name": "Sapienza University of Rome",
+    "country": "IT",
+    "city": "Rome",
+    "ranking": 171,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 115,
+    "name": "University College Dublin",
+    "country": "IE",
+    "city": "Dublin",
+    "ranking": 171,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 148,
+    "name": "University of Freiburg",
+    "country": "Germany",
+    "city": "Freiburg",
+    "ranking": 172,
+    "tuitionFee": 0,
+    "programs": [
+      "Medicine",
+      "Law",
+      "Engineering",
+      "Environmental Sciences"
+    ],
+    "description": "Historic university in Black Forest region.",
+    "acceptanceRate": 40,
+    "internationalStudents": 4000
+  },
+  {
+    "id": 170,
+    "name": "Indian Institute of Technology Bombay",
+    "country": "IN",
+    "city": "Mumbai",
+    "ranking": 172,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 88,
+    "name": "University of Cape Town",
+    "country": "ZA",
+    "city": "Cape Town",
+    "ranking": 173,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 85,
+    "name": "University of Lausanne",
+    "country": "CH",
+    "city": "Lausanne",
+    "ranking": 176,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 196,
+    "name": "Northeastern University",
+    "country": "United States",
+    "city": "Boston",
+    "ranking": 176,
+    "tuitionFee": 56500,
+    "programs": [
+      "Engineering",
+      "Business",
+      "Computer Science",
+      "Health Sciences"
+    ],
+    "description": "Known for experiential learning and co-op programs.",
+    "acceptanceRate": 18,
+    "internationalStudents": 8000
+  },
+  {
+    "id": 234,
+    "name": "Case Western Reserve University",
+    "country": "United States",
+    "city": "Cleveland",
+    "ranking": 176,
+    "tuitionFee": 58090,
+    "programs": [
+      "Engineering",
+      "Medicine",
+      "Business",
+      "Law"
+    ],
+    "description": "Leading research university with strong STEM programs.",
+    "acceptanceRate": 30,
+    "internationalStudents": 2800
+  },
+  {
+    "id": 323,
+    "name": "Boston College",
+    "country": "United States",
+    "city": "Boston",
+    "ranking": 178,
+    "tuitionFee": 59050,
+    "programs": [
+      "Business",
+      "Law",
+      "Education",
+      "Nursing"
+    ],
+    "description": "Jesuit university with strong liberal arts tradition.",
+    "acceptanceRate": 17,
+    "internationalStudents": 1500
+  },
+  {
+    "id": 55,
+    "name": "Vienna University of Technology",
+    "country": "AT",
+    "city": "Vienna",
+    "ranking": 180,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 104,
+    "name": "University of Chile",
+    "country": "CL",
+    "city": "Santiago",
+    "ranking": 180,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 111,
+    "name": "Dresden University of Technology",
+    "country": "Germany",
+    "city": "Dresden",
+    "ranking": 180,
+    "tuitionFee": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Medicine",
+      "Sciences"
+    ],
+    "description": "Leading technical university in eastern Germany.",
+    "acceptanceRate": 40,
+    "internationalStudents": 4500
+  },
+  {
+    "id": 233,
+    "name": "Khalifa University",
+    "country": "United Arab Emirates",
+    "city": "Abu Dhabi",
+    "ranking": 180,
+    "tuitionFee": 0,
+    "programs": [
+      "Engineering",
+      "Sciences",
+      "Medicine",
+      "Nuclear Engineering"
+    ],
+    "description": "Leading science and technology university in the UAE with full scholarships.",
+    "acceptanceRate": 15,
+    "internationalStudents": 2000
+  },
+  {
+    "id": 318,
+    "name": "Huazhong University of Science and Technology",
+    "country": "China",
+    "city": "Wuhan",
+    "ranking": 180,
+    "tuitionFee": 4500,
+    "programs": [
+      "Engineering",
+      "Medicine",
+      "Computer Science",
+      "Management"
+    ],
+    "description": "Major Chinese university with strong engineering.",
+    "acceptanceRate": 8,
+    "internationalStudents": 2000
+  },
+  {
+    "id": 28,
+    "name": "University of Barcelona",
+    "country": "ES",
+    "city": "Barcelona",
+    "ranking": 184,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 212,
+    "name": "University of Wollongong",
+    "country": "Australia",
+    "city": "Wollongong",
+    "ranking": 185,
+    "tuitionFee": 30000,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Business",
+      "Sciences"
+    ],
+    "description": "Coastal university with strong research reputation.",
+    "acceptanceRate": 55,
+    "internationalStudents": 6000
+  },
+  {
+    "id": 281,
+    "name": "Rensselaer Polytechnic Institute",
+    "country": "United States",
+    "city": "Troy",
+    "ranking": 185,
+    "tuitionFee": 57100,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Architecture",
+      "Business"
+    ],
+    "description": "Oldest technological university in English-speaking world.",
+    "acceptanceRate": 57,
+    "internationalStudents": 2200
+  },
+  {
+    "id": 184,
+    "name": "Indian Institute of Management Ahmedabad",
+    "country": "IN",
+    "city": "Ahmedabad",
+    "ranking": 187,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 102,
+    "name": "Universiti Teknologi Malaysia",
+    "country": "MY",
+    "city": "Johor Bahru",
+    "ranking": 188,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 119,
+    "name": "Brandeis University",
+    "country": "United States",
+    "city": "Waltham",
+    "ranking": 189,
+    "tuitionFee": 59000,
+    "programs": [
+      "Sciences",
+      "Business",
+      "Social Sciences",
+      "Arts"
+    ],
+    "description": "Research university with strong Jewish heritage.",
+    "acceptanceRate": 31,
+    "internationalStudents": 1800
+  },
+  {
+    "id": 223,
+    "name": "Tulane University",
+    "country": "United States",
+    "city": "New Orleans",
+    "ranking": 190,
+    "tuitionFee": 60814,
+    "programs": [
+      "Business",
+      "Medicine",
+      "Law",
+      "Public Health"
+    ],
+    "description": "Major research university in vibrant New Orleans.",
+    "acceptanceRate": 11,
+    "internationalStudents": 1800
+  },
+  {
+    "id": 311,
+    "name": "RMIT University",
+    "country": "Australia",
+    "city": "Melbourne",
+    "ranking": 190,
+    "tuitionFee": 34000,
+    "programs": [
+      "Design",
+      "Engineering",
+      "Business",
+      "Architecture"
+    ],
+    "description": "Leading design and technology university in Melbourne.",
+    "acceptanceRate": 50,
+    "internationalStudents": 11000
+  },
+  {
+    "id": 322,
+    "name": "King Fahd University of Petroleum and Minerals",
+    "country": "Saudi Arabia",
+    "city": "Dhahran",
+    "ranking": 190,
+    "tuitionFee": 0,
+    "programs": [
+      "Engineering",
+      "Petroleum Engineering",
+      "Business",
+      "Sciences"
+    ],
+    "description": "Premier technical university in Saudi Arabia.",
+    "acceptanceRate": 8,
+    "internationalStudents": 1500
+  },
+  {
+    "id": 265,
+    "name": "Curtin University",
+    "country": "Australia",
+    "city": "Perth",
+    "ranking": 193,
+    "tuitionFee": 31000,
+    "programs": [
+      "Engineering",
+      "Business",
+      "Mining",
+      "Health Sciences"
+    ],
+    "description": "Western Australian university with strong industry links.",
+    "acceptanceRate": 60,
+    "internationalStudents": 10000
+  },
+  {
+    "id": 251,
+    "name": "University of Miami",
+    "country": "United States",
+    "city": "Miami",
+    "ranking": 195,
+    "tuitionFee": 54760,
+    "programs": [
+      "Business",
+      "Medicine",
+      "Marine Science",
+      "Music"
+    ],
+    "description": "Private research university with tropical location.",
+    "acceptanceRate": 28,
+    "internationalStudents": 3000
+  },
+  {
+    "id": 314,
+    "name": "Macquarie University",
+    "country": "Australia",
+    "city": "Sydney",
+    "ranking": 195,
+    "tuitionFee": 35000,
+    "programs": [
+      "Business",
+      "Engineering",
+      "Medicine",
+      "Sciences"
+    ],
+    "description": "Innovative Sydney university with strong industry connections.",
+    "acceptanceRate": 40,
+    "internationalStudents": 12000
+  },
+  {
+    "id": 332,
+    "name": "College of William & Mary",
+    "country": "United States",
+    "city": "Williamsburg",
+    "ranking": 195,
+    "tuitionFee": 47000,
+    "programs": [
+      "Business",
+      "Law",
+      "Arts",
+      "Sciences"
+    ],
+    "description": "Second oldest university in the US, founded 1693.",
+    "acceptanceRate": 37,
+    "internationalStudents": 800
+  },
+  {
+    "id": 171,
+    "name": "Indian Institute of Technology Delhi",
+    "country": "IN",
+    "city": "New Delhi",
+    "ranking": 197,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 93,
+    "name": "Tel Aviv University",
+    "country": "IL",
+    "city": "Tel Aviv",
+    "ranking": 198,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 306,
+    "name": "Autonomous University of Madrid",
+    "country": "Spain",
+    "city": "Madrid",
+    "ranking": 200,
+    "tuitionFee": 2000,
+    "programs": [
+      "Medicine",
+      "Law",
+      "Sciences",
+      "Psychology"
+    ],
+    "description": "Top Spanish public university.",
+    "acceptanceRate": 50,
+    "internationalStudents": 3000
+  },
+  {
+    "id": 337,
+    "name": "Lehigh University",
+    "country": "United States",
+    "city": "Bethlehem",
+    "ranking": 200,
+    "tuitionFee": 57910,
+    "programs": [
+      "Engineering",
+      "Business",
+      "Arts",
+      "Sciences"
+    ],
+    "description": "Private research university with strong engineering programs.",
+    "acceptanceRate": 37,
+    "internationalStudents": 1800
+  },
+  {
+    "id": 338,
+    "name": "University of Reading",
+    "country": "United Kingdom",
+    "city": "Reading",
+    "ranking": 200,
+    "tuitionFee": 21000,
+    "programs": [
+      "Agriculture",
+      "Meteorology",
+      "Business",
+      "Pharmacy"
+    ],
+    "description": "Research university known for agriculture and meteorology.",
+    "acceptanceRate": 80,
+    "internationalStudents": 5000
+  },
+  {
+    "id": 185,
+    "name": "Indian Institute of Management Bangalore",
+    "country": "IN",
+    "city": "Bangalore",
+    "ranking": 201,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 186,
+    "name": "Indian Institute of Management Calcutta",
+    "country": "IN",
+    "city": "Kolkata",
+    "ranking": 205,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 215,
+    "name": "Pepperdine University",
+    "country": "United States",
+    "city": "Malibu",
+    "ranking": 205,
+    "tuitionFee": 58002,
+    "programs": [
+      "Business",
+      "Law",
+      "Communications",
+      "Psychology"
+    ],
+    "description": "Christian university with stunning Malibu campus.",
+    "acceptanceRate": 49,
+    "internationalStudents": 2000
+  },
+  {
+    "id": 46,
+    "name": "Complutense University of Madrid",
+    "country": "ES",
+    "city": "Madrid",
+    "ranking": 206,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 285,
+    "name": "VU Amsterdam",
+    "country": "Netherlands",
+    "city": "Amsterdam",
+    "ranking": 207,
+    "tuitionFee": 10000,
+    "programs": [
+      "Business",
+      "Law",
+      "Medicine",
+      "Sciences"
+    ],
+    "description": "Free University of Amsterdam with diverse programs.",
+    "acceptanceRate": 60,
+    "internationalStudents": 5000
+  },
+  {
+    "id": 286,
+    "name": "Syracuse University",
+    "country": "United States",
+    "city": "Syracuse",
+    "ranking": 210,
+    "tuitionFee": 56000,
+    "programs": [
+      "Communications",
+      "Business",
+      "Engineering",
+      "Architecture"
+    ],
+    "description": "Major research university with top communications school.",
+    "acceptanceRate": 52,
+    "internationalStudents": 3500
+  },
+  {
+    "id": 103,
+    "name": "Chulalongkorn University",
+    "country": "TH",
+    "city": "Bangkok",
+    "ranking": 211,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 269,
+    "name": "Queensland University of Technology",
+    "country": "Australia",
+    "city": "Brisbane",
+    "ranking": 213,
+    "tuitionFee": 32000,
+    "programs": [
+      "Engineering",
+      "Business",
+      "Design",
+      "Law"
+    ],
+    "description": "Real-world focused university in Brisbane.",
+    "acceptanceRate": 45,
+    "internationalStudents": 8000
+  },
+  {
+    "id": 76,
+    "name": "University of Göttingen",
+    "country": "DE",
+    "city": "Göttingen",
+    "ranking": 214,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 334,
+    "name": "University of Connecticut",
+    "country": "United States",
+    "city": "Storrs",
+    "ranking": 215,
+    "tuitionFee": 41000,
+    "programs": [
+      "Engineering",
+      "Business",
+      "Pharmacy",
+      "Education"
+    ],
+    "description": "Leading public research university in New England.",
+    "acceptanceRate": 56,
+    "internationalStudents": 2200
+  },
+  {
+    "id": 56,
+    "name": "University of Otago",
+    "country": "NZ",
+    "city": "Dunedin",
+    "ranking": 217,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 5,
+    "name": "American University of Beirut",
+    "country": "Lebanon",
+    "city": "Beirut",
+    "ranking": 220,
+    "tuitionFee": 20000,
+    "programs": [
+      "Medicine",
+      "Engineering",
+      "Business",
+      "Arts"
+    ],
+    "description": "Leading American-style university in Middle East.",
+    "acceptanceRate": 45,
+    "internationalStudents": 2000
+  },
+  {
+    "id": 80,
+    "name": "University of Delaware",
+    "country": "United States",
+    "city": "Newark",
+    "ranking": 220,
+    "tuitionFee": 36880,
+    "programs": [
+      "Engineering",
+      "Business",
+      "Chemical Engineering",
+      "Marine Science"
+    ],
+    "description": "Public research university with strong engineering.",
+    "acceptanceRate": 66,
+    "internationalStudents": 2500
+  },
+  {
+    "id": 163,
+    "name": "University of the Andes Colombia",
+    "country": "Colombia",
+    "city": "Bogotá",
+    "ranking": 220,
+    "tuitionFee": 7000,
+    "programs": [
+      "Engineering",
+      "Business",
+      "Law",
+      "Medicine"
+    ],
+    "description": "Top private university in Colombia with strong international focus.",
+    "acceptanceRate": 25,
+    "internationalStudents": 1800
+  },
+  {
+    "id": 270,
+    "name": "State University of Campinas",
+    "country": "Brazil",
+    "city": "Campinas",
+    "ranking": 220,
+    "tuitionFee": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Medicine",
+      "Sciences"
+    ],
+    "description": "Top Brazilian research university known for innovation.",
+    "acceptanceRate": 5,
+    "internationalStudents": 2000
+  },
+  {
+    "id": 271,
+    "name": "King Saud University",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "ranking": 220,
+    "tuitionFee": 0,
+    "programs": [
+      "Medicine",
+      "Engineering",
+      "Sciences",
+      "Business"
+    ],
+    "description": "Largest university in Saudi Arabia with extensive facilities.",
+    "acceptanceRate": 20,
+    "internationalStudents": 2500
+  },
+  {
+    "id": 283,
+    "name": "Radboud University",
+    "country": "Netherlands",
+    "city": "Nijmegen",
+    "ranking": 220,
+    "tuitionFee": 9000,
+    "programs": [
+      "Medicine",
+      "Sciences",
+      "Law",
+      "Business"
+    ],
+    "description": "Research university in oldest city in Netherlands.",
+    "acceptanceRate": 55,
+    "internationalStudents": 4000
+  },
+  {
+    "id": 335,
+    "name": "National Cheng Kung University",
+    "country": "Taiwan",
+    "city": "Tainan",
+    "ranking": 220,
+    "tuitionFee": 4000,
+    "programs": [
+      "Engineering",
+      "Medicine",
+      "Business",
+      "Sciences"
+    ],
+    "description": "Leading comprehensive university in southern Taiwan.",
+    "acceptanceRate": 15,
+    "internationalStudents": 1500
+  },
+  {
+    "id": 342,
+    "name": "University of Bergen",
+    "country": "Norway",
+    "city": "Bergen",
+    "ranking": 220,
+    "tuitionFee": 0,
+    "programs": [
+      "Marine Biology",
+      "Medicine",
+      "Engineering",
+      "Sciences"
+    ],
+    "description": "Leading Norwegian university with marine research focus.",
+    "acceptanceRate": 45,
+    "internationalStudents": 2000
+  },
+  {
+    "id": 94,
+    "name": "Indian Institute of Science",
+    "country": "IN",
+    "city": "Bangalore",
+    "ranking": 225,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 317,
+    "name": "Fordham University",
+    "country": "United States",
+    "city": "New York",
+    "ranking": 225,
+    "tuitionFee": 56920,
+    "programs": [
+      "Business",
+      "Law",
+      "Social Work",
+      "Arts"
+    ],
+    "description": "Jesuit university in New York City.",
+    "acceptanceRate": 54,
+    "internationalStudents": 2200
+  },
+  {
+    "id": 237,
+    "name": "Universidad de los Andes",
+    "country": "Colombia",
+    "city": "Bogotá",
+    "ranking": 230,
+    "tuitionFee": 7000,
+    "programs": [
+      "Engineering",
+      "Business",
+      "Law",
+      "Medicine"
+    ],
+    "description": "Top private Colombian university.",
+    "acceptanceRate": 25,
+    "internationalStudents": 2000
+  },
+  {
+    "id": 333,
+    "name": "University of Massachusetts Amherst",
+    "country": "United States",
+    "city": "Amherst",
+    "ranking": 230,
+    "tuitionFee": 36964,
+    "programs": [
+      "Computer Science",
+      "Engineering",
+      "Business",
+      "Sciences"
+    ],
+    "description": "Flagship campus of UMass system with strong CS program.",
+    "acceptanceRate": 64,
+    "internationalStudents": 3000
+  },
+  {
+    "id": 256,
+    "name": "Baylor University",
+    "country": "United States",
+    "city": "Waco",
+    "ranking": 235,
+    "tuitionFee": 50232,
+    "programs": [
+      "Business",
+      "Law",
+      "Medicine",
+      "Engineering"
+    ],
+    "description": "Largest Baptist university in the world.",
+    "acceptanceRate": 46,
+    "internationalStudents": 1200
+  },
+  {
+    "id": 324,
+    "name": "University of Calgary",
+    "country": "Canada",
+    "city": "Calgary",
+    "ranking": 235,
+    "tuitionFee": 28000,
+    "programs": [
+      "Engineering",
+      "Business",
+      "Medicine",
+      "Veterinary Medicine"
+    ],
+    "description": "Major Canadian research university in energy sector hub.",
+    "acceptanceRate": 60,
+    "internationalStudents": 4500
+  },
+  {
+    "id": 86,
+    "name": "Victoria University of Wellington",
+    "country": "NZ",
+    "city": "Wellington",
+    "ranking": 236,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 218,
+    "name": "Maastricht University",
+    "country": "Netherlands",
+    "city": "Maastricht",
+    "ranking": 240,
+    "tuitionFee": 10000,
+    "programs": [
+      "Business",
+      "Medicine",
+      "Law",
+      "Psychology"
+    ],
+    "description": "International university known for problem-based learning.",
+    "acceptanceRate": 45,
+    "internationalStudents": 5000
+  },
+  {
+    "id": 262,
+    "name": "University of Padua",
+    "country": "Italy",
+    "city": "Padua",
+    "ranking": 240,
+    "tuitionFee": 3000,
+    "programs": [
+      "Medicine",
+      "Engineering",
+      "Sciences",
+      "Law"
+    ],
+    "description": "Historic Italian university where Galileo taught.",
+    "acceptanceRate": 65,
+    "internationalStudents": 3500
+  },
+  {
+    "id": 272,
+    "name": "University of Sussex",
+    "country": "United Kingdom",
+    "city": "Brighton",
+    "ranking": 240,
+    "tuitionFee": 22000,
+    "programs": [
+      "International Relations",
+      "Psychology",
+      "Business",
+      "Media"
+    ],
+    "description": "Campus university near Brighton with strong social sciences.",
+    "acceptanceRate": 65,
+    "internationalStudents": 5500
+  },
+  {
+    "id": 278,
+    "name": "Sciences Po",
+    "country": "France",
+    "city": "Paris",
+    "ranking": 240,
+    "tuitionFee": 14000,
+    "programs": [
+      "Political Science",
+      "International Relations",
+      "Economics",
+      "Law"
+    ],
+    "description": "Elite French grande école for political science.",
+    "acceptanceRate": 17,
+    "internationalStudents": 5000
+  },
+  {
+    "id": 321,
+    "name": "American University",
+    "country": "United States",
+    "city": "Washington DC",
+    "ranking": 240,
+    "tuitionFee": 52526,
+    "programs": [
+      "International Relations",
+      "Political Science",
+      "Business",
+      "Communications"
+    ],
+    "description": "DC university known for international affairs.",
+    "acceptanceRate": 64,
+    "internationalStudents": 1800
+  },
+  {
+    "id": 97,
+    "name": "Saint Petersburg State University",
+    "country": "RU",
+    "city": "Saint Petersburg",
+    "ranking": 242,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 179,
+    "name": "University of Vermont",
+    "country": "United States",
+    "city": "Burlington",
+    "ranking": 245,
+    "tuitionFee": 43890,
+    "programs": [
+      "Environmental Science",
+      "Business",
+      "Medicine",
+      "Engineering"
+    ],
+    "description": "Public university with strong environmental programs.",
+    "acceptanceRate": 60,
+    "internationalStudents": 1000
+  },
+  {
+    "id": 240,
+    "name": "Qatar University",
+    "country": "Qatar",
+    "city": "Doha",
+    "ranking": 245,
+    "tuitionFee": 0,
+    "programs": [
+      "Engineering",
+      "Business",
+      "Medicine",
+      "Law"
+    ],
+    "description": "National university of Qatar with modern facilities.",
+    "acceptanceRate": 35,
+    "internationalStudents": 2000
+  },
+  {
+    "id": 109,
+    "name": "Charles University",
+    "country": "CZ",
+    "city": "Prague",
+    "ranking": 248,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 172,
+    "name": "Indian Institute of Technology Madras",
+    "country": "IN",
+    "city": "Chennai",
+    "ranking": 250,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 242,
+    "name": "University of Antwerp",
+    "country": "Belgium",
+    "city": "Antwerp",
+    "ranking": 250,
+    "tuitionFee": 1000,
+    "programs": [
+      "Business",
+      "Medicine",
+      "Engineering",
+      "Law"
+    ],
+    "description": "Major Belgian university in port city.",
+    "acceptanceRate": 60,
+    "internationalStudents": 3000
+  },
+  {
+    "id": 268,
+    "name": "University of Iowa",
+    "country": "United States",
+    "city": "Iowa City",
+    "ranking": 250,
+    "tuitionFee": 31569,
+    "programs": [
+      "Medicine",
+      "Business",
+      "Engineering",
+      "Creative Writing"
+    ],
+    "description": "Public research university with top creative writing program.",
+    "acceptanceRate": 86,
+    "internationalStudents": 3500
+  },
+  {
+    "id": 284,
+    "name": "Pompeu Fabra University",
+    "country": "Spain",
+    "city": "Barcelona",
+    "ranking": 250,
+    "tuitionFee": 2500,
+    "programs": [
+      "Economics",
+      "Political Science",
+      "Communications",
+      "Translation"
+    ],
+    "description": "Young innovative Barcelona university.",
+    "acceptanceRate": 40,
+    "internationalStudents": 2000
+  },
+  {
+    "id": 291,
+    "name": "Gadjah Mada University",
+    "country": "Indonesia",
+    "city": "Yogyakarta",
+    "ranking": 250,
+    "tuitionFee": 2500,
+    "programs": [
+      "Engineering",
+      "Medicine",
+      "Agriculture",
+      "Social Sciences"
+    ],
+    "description": "Oldest and largest Indonesian university.",
+    "acceptanceRate": 10,
+    "internationalStudents": 1000
+  },
+  {
+    "id": 187,
+    "name": "All India Institute of Medical Sciences",
+    "country": "IN",
+    "city": "New Delhi",
+    "ranking": 251,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 87,
+    "name": "University of Canterbury",
+    "country": "NZ",
+    "city": "Christchurch",
+    "ranking": 256,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 166,
+    "name": "Loughborough University",
+    "country": "United Kingdom",
+    "city": "Loughborough",
+    "ranking": 256,
+    "tuitionFee": 23000,
+    "programs": [
+      "Engineering",
+      "Sports Science",
+      "Business",
+      "Design"
+    ],
+    "description": "Top UK university for sports and engineering.",
+    "acceptanceRate": 70,
+    "internationalStudents": 4000
+  },
+  {
+    "id": 112,
+    "name": "University of Kansas",
+    "country": "United States",
+    "city": "Lawrence",
+    "ranking": 260,
+    "tuitionFee": 28034,
+    "programs": [
+      "Engineering",
+      "Business",
+      "Pharmacy",
+      "Architecture"
+    ],
+    "description": "Major research university in Kansas.",
+    "acceptanceRate": 92,
+    "internationalStudents": 2000
+  },
+  {
+    "id": 310,
+    "name": "National University of Colombia",
+    "country": "Colombia",
+    "city": "Bogotá",
+    "ranking": 260,
+    "tuitionFee": 1000,
+    "programs": [
+      "Engineering",
+      "Sciences",
+      "Agriculture",
+      "Medicine"
+    ],
+    "description": "Largest public university in Colombia with extensive research.",
+    "acceptanceRate": 12,
+    "internationalStudents": 1500
+  },
+  {
+    "id": 227,
+    "name": "Deakin University",
+    "country": "Australia",
+    "city": "Melbourne",
+    "ranking": 266,
+    "tuitionFee": 30000,
+    "programs": [
+      "Business",
+      "Engineering",
+      "Health",
+      "Education"
+    ],
+    "description": "Innovative Australian university with online programs.",
+    "acceptanceRate": 65,
+    "internationalStudents": 9000
+  },
+  {
+    "id": 77,
+    "name": "University of Cologne",
+    "country": "DE",
+    "city": "Cologne",
+    "ranking": 268,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 167,
+    "name": "Kyung Hee University",
+    "country": "South Korea",
+    "city": "Seoul",
+    "ranking": 270,
+    "tuitionFee": 10000,
+    "programs": [
+      "Business",
+      "Hospitality",
+      "Medicine",
+      "Korean Studies"
+    ],
+    "description": "Comprehensive Korean university with global campus.",
+    "acceptanceRate": 30,
+    "internationalStudents": 4000
+  },
+  {
+    "id": 288,
+    "name": "University of Twente",
+    "country": "Netherlands",
+    "city": "Enschede",
+    "ranking": 270,
+    "tuitionFee": 10000,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Business",
+      "Sciences"
+    ],
+    "description": "Entrepreneurial tech university with campus living.",
+    "acceptanceRate": 55,
+    "internationalStudents": 3500
+  },
+  {
+    "id": 304,
+    "name": "University of Oregon",
+    "country": "United States",
+    "city": "Eugene",
+    "ranking": 270,
+    "tuitionFee": 38415,
+    "programs": [
+      "Business",
+      "Education",
+      "Journalism",
+      "Environmental Science"
+    ],
+    "description": "Pacific Northwest university with strong athletics.",
+    "acceptanceRate": 83,
+    "internationalStudents": 1800
+  },
+  {
+    "id": 330,
+    "name": "University of Leicester",
+    "country": "United Kingdom",
+    "city": "Leicester",
+    "ranking": 270,
+    "tuitionFee": 21000,
+    "programs": [
+      "Genetics",
+      "Space Science",
+      "Archaeology",
+      "Law"
+    ],
+    "description": "Research university known for DNA fingerprinting discovery.",
+    "acceptanceRate": 70,
+    "internationalStudents": 4000
+  },
+  {
+    "id": 95,
+    "name": "Indian Institute of Technology Kharagpur",
+    "country": "IN",
+    "city": "Kharagpur",
+    "ranking": 271,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 63,
+    "name": "Universitat Politècnica de Catalunya",
+    "country": "ES",
+    "city": "Barcelona",
+    "ranking": 275,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 174,
+    "name": "Indian Institute of Technology Kanpur",
+    "country": "IN",
+    "city": "Kanpur",
+    "ranking": 277,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 149,
+    "name": "University of Innsbruck",
+    "country": "Austria",
+    "city": "Innsbruck",
+    "ranking": 280,
+    "tuitionFee": 1500,
+    "programs": [
+      "Sports Science",
+      "Medicine",
+      "Law",
+      "Sciences"
+    ],
+    "description": "Alpine university with strong sports programs.",
+    "acceptanceRate": 70,
+    "internationalStudents": 4000
+  },
+  {
+    "id": 325,
+    "name": "University of Oklahoma",
+    "country": "United States",
+    "city": "Norman",
+    "ranking": 280,
+    "tuitionFee": 26544,
+    "programs": [
+      "Petroleum Engineering",
+      "Meteorology",
+      "Business",
+      "Law"
+    ],
+    "description": "Major research university with strong energy programs.",
+    "acceptanceRate": 83,
+    "internationalStudents": 2200
+  },
+  {
+    "id": 205,
+    "name": "Indian Institute of Technology (BHU) Varanasi",
+    "country": "IN",
+    "city": "Varanasi",
+    "ranking": 285,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 7,
+    "name": "United Arab Emirates University",
+    "country": "United Arab Emirates",
+    "city": "Al Ain",
+    "ranking": 290,
+    "tuitionFee": 0,
+    "programs": [
+      "Engineering",
+      "Business",
+      "Medicine",
+      "Law"
+    ],
+    "description": "Oldest university in the UAE with comprehensive programs.",
+    "acceptanceRate": 30,
+    "internationalStudents": 3000
+  },
+  {
+    "id": 297,
+    "name": "University of Indonesia",
+    "country": "Indonesia",
+    "city": "Jakarta",
+    "ranking": 290,
+    "tuitionFee": 3000,
+    "programs": [
+      "Engineering",
+      "Medicine",
+      "Business",
+      "Law"
+    ],
+    "description": "Oldest and most prestigious university in Indonesia.",
+    "acceptanceRate": 12,
+    "internationalStudents": 1500
+  },
+  {
+    "id": 308,
+    "name": "University of Alabama",
+    "country": "United States",
+    "city": "Tuscaloosa",
+    "ranking": 290,
+    "tuitionFee": 30250,
+    "programs": [
+      "Business",
+      "Engineering",
+      "Law",
+      "Nursing"
+    ],
+    "description": "Flagship Alabama university with strong traditions.",
+    "acceptanceRate": 80,
+    "internationalStudents": 1500
+  },
+  {
+    "id": 309,
+    "name": "University of Turku",
+    "country": "Finland",
+    "city": "Turku",
+    "ranking": 290,
+    "tuitionFee": 0,
+    "programs": [
+      "Medicine",
+      "Sciences",
+      "Law",
+      "Education"
+    ],
+    "description": "Second largest university in Finland.",
+    "acceptanceRate": 40,
+    "internationalStudents": 1500
+  },
+  {
+    "id": 110,
+    "name": "University of Porto",
+    "country": "PT",
+    "city": "Porto",
+    "ranking": 295,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 126,
+    "name": "University of East Anglia",
+    "country": "United Kingdom",
+    "city": "Norwich",
+    "ranking": 295,
+    "tuitionFee": 20000,
+    "programs": [
+      "Environmental Science",
+      "Creative Writing",
+      "Medicine",
+      "Business"
+    ],
+    "description": "Campus university with strong environmental research.",
+    "acceptanceRate": 75,
+    "internationalStudents": 4000
+  },
+  {
+    "id": 71,
+    "name": "Simon Fraser University",
+    "country": "CA",
+    "city": "Burnaby",
+    "ranking": 298,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 3,
+    "name": "University College Cork",
+    "country": "Ireland",
+    "city": "Cork",
+    "ranking": 300,
+    "tuitionFee": 18000,
+    "programs": [
+      "Engineering",
+      "Business",
+      "Medicine",
+      "Food Science"
+    ],
+    "description": "Leading Irish university with strong research focus.",
+    "acceptanceRate": 45,
+    "internationalStudents": 2500
+  },
+  {
+    "id": 74,
+    "name": "Griffith University",
+    "country": "AU",
+    "city": "Brisbane",
+    "ranking": 300,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 173,
+    "name": "Vrije Universiteit Brussel",
+    "country": "Belgium",
+    "city": "Brussels",
+    "ranking": 300,
+    "tuitionFee": 1000,
+    "programs": [
+      "Medicine",
+      "Engineering",
+      "Law",
+      "Sciences"
+    ],
+    "description": "Free University of Brussels in EU capital.",
+    "acceptanceRate": 65,
+    "internationalStudents": 2500
+  },
+  {
+    "id": 175,
+    "name": "Indian Institute of Technology Roorkee",
+    "country": "IN",
+    "city": "Roorkee",
+    "ranking": 300,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 263,
+    "name": "Polytechnic University of Catalonia",
+    "country": "Spain",
+    "city": "Barcelona",
+    "ranking": 300,
+    "tuitionFee": 2500,
+    "programs": [
+      "Engineering",
+      "Architecture",
+      "Computer Science"
+    ],
+    "description": "Leading technical university in Barcelona.",
+    "acceptanceRate": 40,
+    "internationalStudents": 2000
+  },
+  {
+    "id": 267,
+    "name": "Auburn University",
+    "country": "United States",
+    "city": "Auburn",
+    "ranking": 300,
+    "tuitionFee": 30524,
+    "programs": [
+      "Engineering",
+      "Business",
+      "Agriculture",
+      "Veterinary Medicine"
+    ],
+    "description": "Land-grant university with strong engineering.",
+    "acceptanceRate": 81,
+    "internationalStudents": 1800
+  },
+  {
+    "id": 327,
+    "name": "Grenoble Alpes University",
+    "country": "France",
+    "city": "Grenoble",
+    "ranking": 300,
+    "tuitionFee": 170,
+    "programs": [
+      "Engineering",
+      "Physics",
+      "Computer Science",
+      "Medicine"
+    ],
+    "description": "Major research university in French Alps.",
+    "acceptanceRate": 45,
+    "internationalStudents": 6000
+  },
+  {
+    "id": 250,
+    "name": "University of Surrey",
+    "country": "United Kingdom",
+    "city": "Guildford",
+    "ranking": 305,
+    "tuitionFee": 22500,
+    "programs": [
+      "Engineering",
+      "Hospitality",
+      "Veterinary Medicine",
+      "Business"
+    ],
+    "description": "University with strong industry placement programs.",
+    "acceptanceRate": 75,
+    "internationalStudents": 4500,
+    "website": "https://www.surrey.ac.uk"
+  },
+  {
+    "id": 72,
+    "name": "Dalhousie University",
+    "country": "CA",
+    "city": "Halifax",
+    "ranking": 308,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 343,
+    "name": "Clemson University",
+    "country": "United States",
+    "city": "Clemson",
+    "ranking": 310,
+    "tuitionFee": 38550,
+    "programs": [
+      "Engineering",
+      "Business",
+      "Agriculture",
+      "Architecture"
+    ],
+    "description": "Public research university in South Carolina.",
+    "acceptanceRate": 51,
+    "internationalStudents": 1200
+  },
+  {
+    "id": 316,
+    "name": "Politecnico di Torino",
+    "country": "Italy",
+    "city": "Turin",
+    "ranking": 315,
+    "tuitionFee": 3500,
+    "programs": [
+      "Engineering",
+      "Architecture",
+      "Design",
+      "Urban Planning"
+    ],
+    "description": "Leading Italian technical university.",
+    "acceptanceRate": 50,
+    "internationalStudents": 3000
+  },
+  {
+    "id": 27,
+    "name": "University of Milan",
+    "country": "IT",
+    "city": "Milan",
+    "ranking": 316,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 2,
+    "name": "Jagiellonian University",
+    "country": "Poland",
+    "city": "Krakow",
+    "ranking": 320,
+    "tuitionFee": 4000,
+    "programs": [
+      "Medicine",
+      "Law",
+      "Sciences",
+      "Business"
+    ],
+    "description": "Oldest university in Poland with rich history.",
+    "acceptanceRate": 50,
+    "internationalStudents": 2500
+  },
+  {
+    "id": 176,
+    "name": "Indian Institute of Technology Guwahati",
+    "country": "IN",
+    "city": "Guwahati",
+    "ranking": 320,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 279,
+    "name": "University of Iceland",
+    "country": "Iceland",
+    "city": "Reykjavik",
+    "ranking": 320,
+    "tuitionFee": 0,
+    "programs": [
+      "Engineering",
+      "Sciences",
+      "Medicine",
+      "Environmental Studies"
+    ],
+    "description": "Leading university in Iceland with focus on sustainability.",
+    "acceptanceRate": 60,
+    "internationalStudents": 800
+  },
+  {
+    "id": 296,
+    "name": "University of South Carolina",
+    "country": "United States",
+    "city": "Columbia",
+    "ranking": 320,
+    "tuitionFee": 33928,
+    "programs": [
+      "Business",
+      "Engineering",
+      "Public Health",
+      "Law"
+    ],
+    "description": "Flagship South Carolina university.",
+    "acceptanceRate": 68,
+    "internationalStudents": 1600
+  },
+  {
+    "id": 107,
+    "name": "University of Warsaw",
+    "country": "PL",
+    "city": "Warsaw",
+    "ranking": 321,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 4,
+    "name": "Linköping University",
+    "country": "Sweden",
+    "city": "Linköping",
+    "ranking": 330,
+    "tuitionFee": 0,
+    "programs": [
+      "Engineering",
+      "Medicine",
+      "Computer Science",
+      "Business"
+    ],
+    "description": "Innovative Swedish university with strong tech focus.",
+    "acceptanceRate": 40,
+    "internationalStudents": 2000
+  },
+  {
+    "id": 241,
+    "name": "University of Kentucky",
+    "country": "United States",
+    "city": "Lexington",
+    "ranking": 330,
+    "tuitionFee": 30913,
+    "programs": [
+      "Medicine",
+      "Pharmacy",
+      "Engineering",
+      "Agriculture"
+    ],
+    "description": "Major research university in Kentucky.",
+    "acceptanceRate": 96,
+    "internationalStudents": 1400
+  },
+  {
+    "id": 13,
+    "name": "Indian Institute of Technology (ISM) Dhanbad",
+    "country": "IN",
+    "city": "Dhanbad",
+    "ranking": 340,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 300,
+    "name": "University of Tennessee",
+    "country": "United States",
+    "city": "Knoxville",
+    "ranking": 340,
+    "tuitionFee": 31160,
+    "programs": [
+      "Engineering",
+      "Business",
+      "Nuclear Engineering",
+      "Agriculture"
+    ],
+    "description": "Flagship Tennessee university with strong research.",
+    "acceptanceRate": 78,
+    "internationalStudents": 1000
+  },
+  {
+    "id": 1,
+    "name": "Sichuan University",
+    "country": "China",
+    "city": "Chengdu",
+    "ranking": 350,
+    "tuitionFee": 4500,
+    "programs": [
+      "Medicine",
+      "Engineering",
+      "Business",
+      "Sciences"
+    ],
+    "description": "Major comprehensive university in western China.",
+    "acceptanceRate": 12,
+    "internationalStudents": 2000
+  },
+  {
+    "id": 181,
+    "name": "Federal University of Rio de Janeiro",
+    "country": "Brazil",
+    "city": "Rio de Janeiro",
+    "ranking": 350,
+    "tuitionFee": 0,
+    "programs": [
+      "Engineering",
+      "Medicine",
+      "Arts",
+      "Social Sciences"
+    ],
+    "description": "Historic Brazilian university with comprehensive programs.",
+    "acceptanceRate": 8,
+    "internationalStudents": 1800
+  },
+  {
+    "id": 190,
+    "name": "Indian Institute of Technology Hyderabad",
+    "country": "IN",
+    "city": "Hyderabad",
+    "ranking": 350,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 224,
+    "name": "Stellenbosch University",
+    "country": "South Africa",
+    "city": "Stellenbosch",
+    "ranking": 350,
+    "tuitionFee": 5000,
+    "programs": [
+      "Engineering",
+      "Business",
+      "Agriculture",
+      "Medicine"
+    ],
+    "description": "Historic South African university in beautiful wine country.",
+    "acceptanceRate": 35,
+    "internationalStudents": 2500
+  },
+  {
+    "id": 232,
+    "name": "Ewha Womans University",
+    "country": "South Korea",
+    "city": "Seoul",
+    "ranking": 350,
+    "tuitionFee": 10000,
+    "programs": [
+      "Business",
+      "Engineering",
+      "Medicine",
+      "Arts"
+    ],
+    "description": "Leading women's university in South Korea.",
+    "acceptanceRate": 25,
+    "internationalStudents": 2000
+  },
+  {
+    "id": 244,
+    "name": "University of Southern Denmark",
+    "country": "Denmark",
+    "city": "Odense",
+    "ranking": 350,
+    "tuitionFee": 0,
+    "programs": [
+      "Engineering",
+      "Business",
+      "Health Sciences",
+      "Sciences"
+    ],
+    "description": "Modern Danish university with strong research.",
+    "acceptanceRate": 50,
+    "internationalStudents": 2500
+  },
+  {
+    "id": 253,
+    "name": "Bandung Institute of Technology",
+    "country": "Indonesia",
+    "city": "Bandung",
+    "ranking": 350,
+    "tuitionFee": 2500,
+    "programs": [
+      "Engineering",
+      "Architecture",
+      "Sciences",
+      "Business"
+    ],
+    "description": "Premier technical university in Indonesia.",
+    "acceptanceRate": 8,
+    "internationalStudents": 800
+  },
+  {
+    "id": 280,
+    "name": "Graz University of Technology",
+    "country": "Austria",
+    "city": "Graz",
+    "ranking": 350,
+    "tuitionFee": 1500,
+    "programs": [
+      "Engineering",
+      "Architecture",
+      "Computer Science"
+    ],
+    "description": "Leading Austrian technical university.",
+    "acceptanceRate": 60,
+    "internationalStudents": 2000
+  },
+  {
+    "id": 294,
+    "name": "Tilburg University",
+    "country": "Netherlands",
+    "city": "Tilburg",
+    "ranking": 350,
+    "tuitionFee": 9000,
+    "programs": [
+      "Economics",
+      "Law",
+      "Business",
+      "Social Sciences"
+    ],
+    "description": "Specialized university with strong social sciences programs.",
+    "acceptanceRate": 50,
+    "internationalStudents": 3000
+  },
+  {
+    "id": 329,
+    "name": "University of Oulu",
+    "country": "Finland",
+    "city": "Oulu",
+    "ranking": 350,
+    "tuitionFee": 0,
+    "programs": [
+      "Engineering",
+      "Medicine",
+      "Sciences",
+      "Education"
+    ],
+    "description": "Northern Finnish university with tech focus.",
+    "acceptanceRate": 50,
+    "internationalStudents": 1800
+  },
+  {
+    "id": 339,
+    "name": "University of Strasbourg",
+    "country": "France",
+    "city": "Strasbourg",
+    "ranking": 350,
+    "tuitionFee": 170,
+    "programs": [
+      "Medicine",
+      "Law",
+      "Sciences",
+      "Humanities"
+    ],
+    "description": "Major French university in European capital.",
+    "acceptanceRate": 50,
+    "internationalStudents": 8000
+  },
+  {
+    "id": 189,
+    "name": "Tata Institute of Fundamental Research",
+    "country": "IN",
+    "city": "Mumbai",
+    "ranking": 351,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 49,
+    "name": "Norwegian University of Science and Technology",
+    "country": "NO",
+    "city": "Trondheim",
+    "ranking": 360,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 214,
+    "name": "American University of Sharjah",
+    "country": "United Arab Emirates",
+    "city": "Sharjah",
+    "ranking": 360,
+    "tuitionFee": 25000,
+    "programs": [
+      "Engineering",
+      "Business",
+      "Architecture",
+      "Design"
+    ],
+    "description": "American-style university in the UAE with diverse student body.",
+    "acceptanceRate": 40,
+    "internationalStudents": 4500
+  },
+  {
+    "id": 248,
+    "name": "University of Lisbon",
+    "country": "Portugal",
+    "city": "Lisbon",
+    "ranking": 360,
+    "tuitionFee": 7000,
+    "programs": [
+      "Engineering",
+      "Medicine",
+      "Sciences",
+      "Architecture"
+    ],
+    "description": "Largest university in Portugal with comprehensive programs.",
+    "acceptanceRate": 50,
+    "internationalStudents": 4000
+  },
+  {
+    "id": 264,
+    "name": "University of South Australia",
+    "country": "Australia",
+    "city": "Adelaide",
+    "ranking": 363,
+    "tuitionFee": 30000,
+    "programs": [
+      "Engineering",
+      "Business",
+      "Health Sciences",
+      "Design"
+    ],
+    "description": "Modern Australian university with industry focus.",
+    "acceptanceRate": 70,
+    "internationalStudents": 7000
+  },
+  {
+    "id": 6,
+    "name": "University of Victoria",
+    "country": "Canada",
+    "city": "Victoria",
+    "ranking": 370,
+    "tuitionFee": 27000,
+    "programs": [
+      "Engineering",
+      "Business",
+      "Law",
+      "Environmental Studies"
+    ],
+    "description": "BC university with beautiful campus and co-op programs.",
+    "acceptanceRate": 63,
+    "internationalStudents": 3500
+  },
+  {
+    "id": 228,
+    "name": "NOVA University Lisbon",
+    "country": "Portugal",
+    "city": "Lisbon",
+    "ranking": 370,
+    "tuitionFee": 7000,
+    "programs": [
+      "Business",
+      "Law",
+      "Medicine",
+      "Sciences"
+    ],
+    "description": "Modern Portuguese university with strong business school.",
+    "acceptanceRate": 55,
+    "internationalStudents": 2500
+  },
+  {
+    "id": 147,
+    "name": "Umeå University",
+    "country": "Sweden",
+    "city": "Umeå",
+    "ranking": 380,
+    "tuitionFee": 0,
+    "programs": [
+      "Medicine",
+      "Sciences",
+      "Design",
+      "Business"
+    ],
+    "description": "Northern Swedish university with strong research.",
+    "acceptanceRate": 45,
+    "internationalStudents": 1500
+  },
+  {
+    "id": 206,
+    "name": "Indian Institute of Technology Gandhinagar",
+    "country": "IN",
+    "city": "Gandhinagar",
+    "ranking": 380,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 247,
+    "name": "University of Luxembourg",
+    "country": "Luxembourg",
+    "city": "Luxembourg City",
+    "ranking": 380,
+    "tuitionFee": 400,
+    "programs": [
+      "Computer Science",
+      "Finance",
+      "Law",
+      "Engineering"
+    ],
+    "description": "International multilingual university in the heart of Europe.",
+    "acceptanceRate": 40,
+    "internationalStudents": 3500
+  },
+  {
+    "id": 277,
+    "name": "University of Pisa",
+    "country": "Italy",
+    "city": "Pisa",
+    "ranking": 380,
+    "tuitionFee": 3000,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Physics",
+      "Medicine"
+    ],
+    "description": "Historic Italian university where Galileo studied.",
+    "acceptanceRate": 60,
+    "internationalStudents": 2500
+  },
+  {
+    "id": 307,
+    "name": "Xiamen University",
+    "country": "China",
+    "city": "Xiamen",
+    "ranking": 380,
+    "tuitionFee": 4500,
+    "programs": [
+      "Business",
+      "Economics",
+      "Marine Science",
+      "Chemistry"
+    ],
+    "description": "Beautiful coastal Chinese university.",
+    "acceptanceRate": 10,
+    "internationalStudents": 2500
+  },
+  {
+    "id": 178,
+    "name": "La Trobe University",
+    "country": "Australia",
+    "city": "Melbourne",
+    "ranking": 400,
+    "tuitionFee": 30000,
+    "programs": [
+      "Health Sciences",
+      "Business",
+      "Engineering",
+      "Sciences"
+    ],
+    "description": "Victorian university with strong health programs.",
+    "acceptanceRate": 75,
+    "internationalStudents": 6000
+  },
+  {
+    "id": 204,
+    "name": "Indian Institute of Technology Indore",
+    "country": "IN",
+    "city": "Indore",
+    "ranking": 400,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 220,
+    "name": "Nanjing University of Science and Technology",
+    "country": "China",
+    "city": "Nanjing",
+    "ranking": 400,
+    "tuitionFee": 4500,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Materials Science"
+    ],
+    "description": "Leading Chinese technical university.",
+    "acceptanceRate": 10,
+    "internationalStudents": 1500
+  },
+  {
+    "id": 226,
+    "name": "University of Rome Tor Vergata",
+    "country": "Italy",
+    "city": "Rome",
+    "ranking": 400,
+    "tuitionFee": 3000,
+    "programs": [
+      "Engineering",
+      "Medicine",
+      "Economics",
+      "Law"
+    ],
+    "description": "Modern Roman university with strong research.",
+    "acceptanceRate": 70,
+    "internationalStudents": 3500
+  },
+  {
+    "id": 229,
+    "name": "Kobe University",
+    "country": "Japan",
+    "city": "Kobe",
+    "ranking": 400,
+    "tuitionFee": 5400,
+    "programs": [
+      "Business",
+      "Medicine",
+      "Engineering",
+      "Maritime Sciences"
+    ],
+    "description": "National Japanese university in port city.",
+    "acceptanceRate": 30,
+    "internationalStudents": 1200
+  },
+  {
+    "id": 302,
+    "name": "University of the Philippines",
+    "country": "Philippines",
+    "city": "Quezon City",
+    "ranking": 400,
+    "tuitionFee": 1000,
+    "programs": [
+      "Engineering",
+      "Medicine",
+      "Business",
+      "Arts"
+    ],
+    "description": "National university of the Philippines with strong academics.",
+    "acceptanceRate": 10,
+    "internationalStudents": 1200
+  },
+  {
+    "id": 303,
+    "name": "University of Jyväskylä",
+    "country": "Finland",
+    "city": "Jyväskylä",
+    "ranking": 400,
+    "tuitionFee": 0,
+    "programs": [
+      "Education",
+      "Sports Science",
+      "Sciences",
+      "Business"
+    ],
+    "description": "Finnish university known for education and sports.",
+    "acceptanceRate": 55,
+    "internationalStudents": 1200
+  },
+  {
+    "id": 344,
+    "name": "University of Coimbra",
+    "country": "Portugal",
+    "city": "Coimbra",
+    "ranking": 400,
+    "tuitionFee": 7000,
+    "programs": [
+      "Medicine",
+      "Law",
+      "Engineering",
+      "Sciences"
+    ],
+    "description": "Oldest Portuguese university, UNESCO World Heritage site.",
+    "acceptanceRate": 60,
+    "internationalStudents": 3500
+  },
+  {
+    "id": 188,
+    "name": "Indian Statistical Institute",
+    "country": "IN",
+    "city": "Kolkata",
+    "ranking": 401,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 192,
+    "name": "Birla Institute of Technology and Science",
+    "country": "IN",
+    "city": "Pilani",
+    "ranking": 401,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 207,
+    "name": "Indian Institute of Technology Jodhpur",
+    "country": "IN",
+    "city": "Jodhpur",
+    "ranking": 420,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 261,
+    "name": "University of Florence",
+    "country": "Italy",
+    "city": "Florence",
+    "ranking": 420,
+    "tuitionFee": 3000,
+    "programs": [
+      "Architecture",
+      "Arts",
+      "Engineering",
+      "Medicine"
+    ],
+    "description": "Historic university in Renaissance city.",
+    "acceptanceRate": 65,
+    "internationalStudents": 4000
+  },
+  {
+    "id": 290,
+    "name": "American University in Cairo",
+    "country": "Egypt",
+    "city": "Cairo",
+    "ranking": 420,
+    "tuitionFee": 15000,
+    "programs": [
+      "Engineering",
+      "Business",
+      "Political Science",
+      "Journalism"
+    ],
+    "description": "Leading English-language university in the Middle East.",
+    "acceptanceRate": 40,
+    "internationalStudents": 1500
+  },
+  {
+    "id": 89,
+    "name": "University of the Witwatersrand",
+    "country": "ZA",
+    "city": "Johannesburg",
+    "ranking": 428,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 11,
+    "name": "Indian Institute of Technology Bhubaneswar",
+    "country": "IN",
+    "city": "Bhubaneswar",
+    "ranking": 430,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 319,
+    "name": "Koç University",
+    "country": "Turkey",
+    "city": "Istanbul",
+    "ranking": 430,
+    "tuitionFee": 18000,
+    "programs": [
+      "Engineering",
+      "Business",
+      "Medicine",
+      "Law"
+    ],
+    "description": "Leading private Turkish university with strong research focus.",
+    "acceptanceRate": 15,
+    "internationalStudents": 800
+  },
+  {
+    "id": 156,
+    "name": "Sabancı University",
+    "country": "Turkey",
+    "city": "Istanbul",
+    "ranking": 450,
+    "tuitionFee": 17000,
+    "programs": [
+      "Engineering",
+      "Business",
+      "Arts",
+      "Sciences"
+    ],
+    "description": "Young innovative university in Turkey with interdisciplinary approach.",
+    "acceptanceRate": 20,
+    "internationalStudents": 600
+  },
+  {
+    "id": 208,
+    "name": "Indian Institute of Technology Mandi",
+    "country": "IN",
+    "city": "Mandi",
+    "ranking": 450,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 216,
+    "name": "Pontifical Catholic University of Peru",
+    "country": "Peru",
+    "city": "Lima",
+    "ranking": 450,
+    "tuitionFee": 5000,
+    "programs": [
+      "Engineering",
+      "Business",
+      "Law",
+      "Sciences"
+    ],
+    "description": "Leading Peruvian university with strong academics.",
+    "acceptanceRate": 30,
+    "internationalStudents": 800
+  },
+  {
+    "id": 236,
+    "name": "Czech Technical University in Prague",
+    "country": "Czech Republic",
+    "city": "Prague",
+    "ranking": 450,
+    "tuitionFee": 5000,
+    "programs": [
+      "Engineering",
+      "Architecture",
+      "Computer Science"
+    ],
+    "description": "Oldest technical university in Central Europe.",
+    "acceptanceRate": 50,
+    "internationalStudents": 2500
+  },
+  {
+    "id": 249,
+    "name": "University of Mannheim",
+    "country": "Germany",
+    "city": "Mannheim",
+    "ranking": 450,
+    "tuitionFee": 0,
+    "programs": [
+      "Business",
+      "Economics",
+      "Social Sciences",
+      "Law"
+    ],
+    "description": "Leading German business school.",
+    "acceptanceRate": 35,
+    "internationalStudents": 2000
+  },
+  {
+    "id": 257,
+    "name": "University of Saskatchewan",
+    "country": "Canada",
+    "city": "Saskatoon",
+    "ranking": 450,
+    "tuitionFee": 24000,
+    "programs": [
+      "Agriculture",
+      "Engineering",
+      "Medicine",
+      "Veterinary Medicine"
+    ],
+    "description": "Leading Canadian university for agriculture research.",
+    "acceptanceRate": 70,
+    "internationalStudents": 3000
+  },
+  {
+    "id": 260,
+    "name": "Hiroshima University",
+    "country": "Japan",
+    "city": "Hiroshima",
+    "ranking": 450,
+    "tuitionFee": 5400,
+    "programs": [
+      "Peace Studies",
+      "Medicine",
+      "Engineering",
+      "Education"
+    ],
+    "description": "Major national university with peace studies focus.",
+    "acceptanceRate": 35,
+    "internationalStudents": 1500
+  },
+  {
+    "id": 282,
+    "name": "University of Malta",
+    "country": "Malta",
+    "city": "Msida",
+    "ranking": 450,
+    "tuitionFee": 12000,
+    "programs": [
+      "Business",
+      "Engineering",
+      "Medicine",
+      "Law"
+    ],
+    "description": "Historic Mediterranean university with English instruction.",
+    "acceptanceRate": 50,
+    "internationalStudents": 1200
+  },
+  {
+    "id": 292,
+    "name": "University of Fribourg",
+    "country": "Switzerland",
+    "city": "Fribourg",
+    "ranking": 450,
+    "tuitionFee": 1310,
+    "programs": [
+      "Law",
+      "Theology",
+      "Sciences",
+      "Economics"
+    ],
+    "description": "Bilingual Swiss university (French/German).",
+    "acceptanceRate": 60,
+    "internationalStudents": 2500
+  },
+  {
+    "id": 326,
+    "name": "University of St Gallen",
+    "country": "Switzerland",
+    "city": "St Gallen",
+    "ranking": 450,
+    "tuitionFee": 3000,
+    "programs": [
+      "Business",
+      "Economics",
+      "Law",
+      "International Affairs"
+    ],
+    "description": "Elite Swiss business university.",
+    "acceptanceRate": 25,
+    "internationalStudents": 2500
+  },
+  {
+    "id": 336,
+    "name": "University of Naples Federico II",
+    "country": "Italy",
+    "city": "Naples",
+    "ranking": 450,
+    "tuitionFee": 3000,
+    "programs": [
+      "Engineering",
+      "Medicine",
+      "Architecture",
+      "Law"
+    ],
+    "description": "Oldest public university in the world, founded 1224.",
+    "acceptanceRate": 70,
+    "internationalStudents": 3000
+  },
+  {
+    "id": 193,
+    "name": "Vellore Institute of Technology",
+    "country": "IN",
+    "city": "Vellore",
+    "ranking": 451,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 12,
+    "name": "Indian Institute of Technology Ropar",
+    "country": "IN",
+    "city": "Rupnagar",
+    "ranking": 460,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 99,
+    "name": "Middle East Technical University",
+    "country": "TR",
+    "city": "Ankara",
+    "ranking": 465,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 10,
+    "name": "Indian Institute of Technology Patna",
+    "country": "IN",
+    "city": "Patna",
+    "ranking": 480,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 312,
+    "name": "University of Cyprus",
+    "country": "Cyprus",
+    "city": "Nicosia",
+    "ranking": 480,
+    "tuitionFee": 8000,
+    "programs": [
+      "Engineering",
+      "Business",
+      "Sciences",
+      "Medicine"
+    ],
+    "description": "Leading university in Cyprus with modern facilities.",
+    "acceptanceRate": 45,
+    "internationalStudents": 2000
+  },
+  {
+    "id": 108,
+    "name": "Warsaw University of Technology",
+    "country": "PL",
+    "city": "Warsaw",
+    "ranking": 500,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 180,
+    "name": "University of Valencia",
+    "country": "Spain",
+    "city": "Valencia",
+    "ranking": 500,
+    "tuitionFee": 1800,
+    "programs": [
+      "Medicine",
+      "Pharmacy",
+      "Sciences",
+      "Engineering"
+    ],
+    "description": "Historic Spanish university on Mediterranean coast.",
+    "acceptanceRate": 60,
+    "internationalStudents": 2500
+  },
+  {
+    "id": 197,
+    "name": "York University",
+    "country": "Canada",
+    "city": "Toronto",
+    "ranking": 500,
+    "tuitionFee": 27000,
+    "programs": [
+      "Business",
+      "Law",
+      "Arts",
+      "Engineering"
+    ],
+    "description": "Large Toronto university with diverse programs.",
+    "acceptanceRate": 65,
+    "internationalStudents": 5500
+  },
+  {
+    "id": 217,
+    "name": "Masaryk University",
+    "country": "Czech Republic",
+    "city": "Brno",
+    "ranking": 500,
+    "tuitionFee": 5000,
+    "programs": [
+      "Medicine",
+      "Law",
+      "Sciences",
+      "Social Sciences"
+    ],
+    "description": "Second largest Czech university.",
+    "acceptanceRate": 55,
+    "internationalStudents": 3000
+  },
+  {
+    "id": 245,
+    "name": "University of Genoa",
+    "country": "Italy",
+    "city": "Genoa",
+    "ranking": 500,
+    "tuitionFee": 3000,
+    "programs": [
+      "Engineering",
+      "Medicine",
+      "Architecture",
+      "Maritime Studies"
+    ],
+    "description": "Historic port city university.",
+    "acceptanceRate": 65,
+    "internationalStudents": 2000
+  },
+  {
+    "id": 252,
+    "name": "AGH University of Science and Technology",
+    "country": "Poland",
+    "city": "Kraków",
+    "ranking": 500,
+    "tuitionFee": 4000,
+    "programs": [
+      "Engineering",
+      "Mining",
+      "Computer Science",
+      "Sciences"
+    ],
+    "description": "Leading Polish technical university.",
+    "acceptanceRate": 50,
+    "internationalStudents": 1500
+  },
+  {
+    "id": 254,
+    "name": "Pusan National University",
+    "country": "South Korea",
+    "city": "Busan",
+    "ranking": 500,
+    "tuitionFee": 7000,
+    "programs": [
+      "Engineering",
+      "Business",
+      "Medicine",
+      "Marine Science"
+    ],
+    "description": "Leading national university in South Korea's second city.",
+    "acceptanceRate": 25,
+    "internationalStudents": 2000
+  },
+  {
+    "id": 255,
+    "name": "University of Manitoba",
+    "country": "Canada",
+    "city": "Winnipeg",
+    "ranking": 500,
+    "tuitionFee": 23000,
+    "programs": [
+      "Engineering",
+      "Medicine",
+      "Business",
+      "Agriculture"
+    ],
+    "description": "Western Canadian research university.",
+    "acceptanceRate": 65,
+    "internationalStudents": 4500
+  },
+  {
+    "id": 293,
+    "name": "University of Granada",
+    "country": "Spain",
+    "city": "Granada",
+    "ranking": 500,
+    "tuitionFee": 1600,
+    "programs": [
+      "Translation",
+      "Medicine",
+      "Sciences",
+      "Architecture"
+    ],
+    "description": "Historic Andalusian university with Erasmus popularity.",
+    "acceptanceRate": 65,
+    "internationalStudents": 3000
+  },
+  {
+    "id": 199,
+    "name": "Manipal Academy of Higher Education",
+    "country": "IN",
+    "city": "Manipal",
+    "ranking": 501,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 98,
+    "name": "Boğaziçi University",
+    "country": "TR",
+    "city": "Istanbul",
+    "ranking": 511,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 14,
+    "name": "Indian Institute of Technology Palakkad",
+    "country": "IN",
+    "city": "Palakkad",
+    "ranking": 520,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 183,
+    "name": "University of Delhi",
+    "country": "IN",
+    "city": "New Delhi",
+    "ranking": 521,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 15,
+    "name": "Indian Institute of Technology Tirupati",
+    "country": "IN",
+    "city": "Tirupati",
+    "ranking": 550,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 191,
+    "name": "Cairo University",
+    "country": "Egypt",
+    "city": "Cairo",
+    "ranking": 550,
+    "tuitionFee": 1500,
+    "programs": [
+      "Medicine",
+      "Engineering",
+      "Law",
+      "Pharmacy"
+    ],
+    "description": "Largest and oldest public university in Egypt.",
+    "acceptanceRate": 50,
+    "internationalStudents": 2000
+  },
+  {
+    "id": 211,
+    "name": "Eötvös Loránd University",
+    "country": "Hungary",
+    "city": "Budapest",
+    "ranking": 550,
+    "tuitionFee": 4000,
+    "programs": [
+      "Sciences",
+      "Law",
+      "Education",
+      "Arts"
+    ],
+    "description": "Leading Hungarian university with strong sciences.",
+    "acceptanceRate": 55,
+    "internationalStudents": 3000
+  },
+  {
+    "id": 259,
+    "name": "University of Costa Rica",
+    "country": "Costa Rica",
+    "city": "San José",
+    "ranking": 550,
+    "tuitionFee": 3000,
+    "programs": [
+      "Engineering",
+      "Medicine",
+      "Sciences",
+      "Agriculture"
+    ],
+    "description": "Top public university in Central America.",
+    "acceptanceRate": 25,
+    "internationalStudents": 1000
+  },
+  {
+    "id": 287,
+    "name": "University of Seville",
+    "country": "Spain",
+    "city": "Seville",
+    "ranking": 550,
+    "tuitionFee": 1500,
+    "programs": [
+      "Engineering",
+      "Medicine",
+      "Law",
+      "Architecture"
+    ],
+    "description": "Major Andalusian university with rich history.",
+    "acceptanceRate": 65,
+    "internationalStudents": 2000
+  },
+  {
+    "id": 59,
+    "name": "Singapore Management University",
+    "country": "SG",
+    "city": "Singapore",
+    "ranking": 561,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 16,
+    "name": "Indian Institute of Technology Bhilai",
+    "country": "IN",
+    "city": "Bhilai",
+    "ranking": 580,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 17,
+    "name": "Indian Institute of Technology Goa",
+    "country": "IN",
+    "city": "Ponda",
+    "ranking": 600,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 209,
+    "name": "Carleton University",
+    "country": "Canada",
+    "city": "Ottawa",
+    "ranking": 600,
+    "tuitionFee": 26000,
+    "programs": [
+      "Engineering",
+      "Business",
+      "Journalism",
+      "Public Affairs"
+    ],
+    "description": "Ottawa university known for journalism and public policy.",
+    "acceptanceRate": 70,
+    "internationalStudents": 4000
+  },
+  {
+    "id": 231,
+    "name": "Budapest University of Technology and Economics",
+    "country": "Hungary",
+    "city": "Budapest",
+    "ranking": 600,
+    "tuitionFee": 4000,
+    "programs": [
+      "Engineering",
+      "Architecture",
+      "Computer Science",
+      "Economics"
+    ],
+    "description": "Leading Hungarian technical university.",
+    "acceptanceRate": 50,
+    "internationalStudents": 2000
+  },
+  {
+    "id": 246,
+    "name": "Chung-Ang University",
+    "country": "South Korea",
+    "city": "Seoul",
+    "ranking": 600,
+    "tuitionFee": 10000,
+    "programs": [
+      "Business",
+      "Engineering",
+      "Film",
+      "Pharmacy"
+    ],
+    "description": "Comprehensive Korean university with strong arts programs.",
+    "acceptanceRate": 35,
+    "internationalStudents": 1500
+  },
+  {
+    "id": 289,
+    "name": "University of Zaragoza",
+    "country": "Spain",
+    "city": "Zaragoza",
+    "ranking": 600,
+    "tuitionFee": 1500,
+    "programs": [
+      "Engineering",
+      "Medicine",
+      "Sciences",
+      "Law"
+    ],
+    "description": "Major Spanish university in Aragon region.",
+    "acceptanceRate": 70,
+    "internationalStudents": 1500
+  },
+  {
+    "id": 298,
+    "name": "University of Neuchâtel",
+    "country": "Switzerland",
+    "city": "Neuchâtel",
+    "ranking": 600,
+    "tuitionFee": 1030,
+    "programs": [
+      "Law",
+      "Sciences",
+      "Economics",
+      "Humanities"
+    ],
+    "description": "French-speaking Swiss university.",
+    "acceptanceRate": 70,
+    "internationalStudents": 1000
+  },
+  {
+    "id": 299,
+    "name": "University of Wrocław",
+    "country": "Poland",
+    "city": "Wrocław",
+    "ranking": 600,
+    "tuitionFee": 4000,
+    "programs": [
+      "Sciences",
+      "Law",
+      "Medicine",
+      "Humanities"
+    ],
+    "description": "Historic Polish university with strong sciences.",
+    "acceptanceRate": 60,
+    "internationalStudents": 2000
+  },
+  {
+    "id": 320,
+    "name": "Thammasat University",
+    "country": "Thailand",
+    "city": "Bangkok",
+    "ranking": 600,
+    "tuitionFee": 3000,
+    "programs": [
+      "Law",
+      "Political Science",
+      "Business",
+      "Economics"
+    ],
+    "description": "Second oldest university in Thailand.",
+    "acceptanceRate": 15,
+    "internationalStudents": 1000
+  },
+  {
+    "id": 340,
+    "name": "Lebanese American University",
+    "country": "Lebanon",
+    "city": "Beirut",
+    "ranking": 600,
+    "tuitionFee": 18000,
+    "programs": [
+      "Business",
+      "Engineering",
+      "Medicine",
+      "Pharmacy"
+    ],
+    "description": "Private American university in Lebanon.",
+    "acceptanceRate": 50,
+    "internationalStudents": 1500
+  },
+  {
+    "id": 341,
+    "name": "King Mongkut's University of Technology Thonburi",
+    "country": "Thailand",
+    "city": "Bangkok",
+    "ranking": 600,
+    "tuitionFee": 3000,
+    "programs": [
+      "Engineering",
+      "Architecture",
+      "Sciences",
+      "Industrial Education"
+    ],
+    "description": "Leading Thai technical university.",
+    "acceptanceRate": 20,
+    "internationalStudents": 800
+  },
+  {
+    "id": 177,
+    "name": "Jawaharlal Nehru University",
+    "country": "IN",
+    "city": "New Delhi",
+    "ranking": 601,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 200,
+    "name": "Amity University",
+    "country": "IN",
+    "city": "Noida",
+    "ranking": 601,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 18,
+    "name": "Indian Institute of Technology Jammu",
+    "country": "IN",
+    "city": "Jammu",
+    "ranking": 620,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 19,
+    "name": "Indian Institute of Technology Dharwad",
+    "country": "IN",
+    "city": "Dharwad",
+    "ranking": 650,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 155,
+    "name": "University of Jordan",
+    "country": "Jordan",
+    "city": "Amman",
+    "ranking": 650,
+    "tuitionFee": 5000,
+    "programs": [
+      "Medicine",
+      "Engineering",
+      "Law",
+      "Business"
+    ],
+    "description": "Largest and oldest university in Jordan.",
+    "acceptanceRate": 45,
+    "internationalStudents": 4000
+  },
+  {
+    "id": 258,
+    "name": "Ateneo de Manila University",
+    "country": "Philippines",
+    "city": "Quezon City",
+    "ranking": 650,
+    "tuitionFee": 3000,
+    "programs": [
+      "Business",
+      "Law",
+      "Medicine",
+      "Social Sciences"
+    ],
+    "description": "Leading Jesuit university in the Philippines.",
+    "acceptanceRate": 15,
+    "internationalStudents": 500
+  },
+  {
+    "id": 331,
+    "name": "University of Debrecen",
+    "country": "Hungary",
+    "city": "Debrecen",
+    "ranking": 650,
+    "tuitionFee": 4000,
+    "programs": [
+      "Medicine",
+      "Sciences",
+      "Engineering",
+      "Agriculture"
+    ],
+    "description": "Second largest Hungarian university.",
+    "acceptanceRate": 60,
+    "internationalStudents": 4000
+  },
+  {
+    "id": 194,
+    "name": "De La Salle University",
+    "country": "Philippines",
+    "city": "Manila",
+    "ranking": 700,
+    "tuitionFee": 3000,
+    "programs": [
+      "Engineering",
+      "Business",
+      "Education",
+      "Sciences"
+    ],
+    "description": "Major private university in Manila.",
+    "acceptanceRate": 20,
+    "internationalStudents": 600
+  },
+  {
+    "id": 225,
+    "name": "University of Bucharest",
+    "country": "Romania",
+    "city": "Bucharest",
+    "ranking": 700,
+    "tuitionFee": 3000,
+    "programs": [
+      "Medicine",
+      "Law",
+      "Sciences",
+      "Business"
+    ],
+    "description": "Largest university in Romania.",
+    "acceptanceRate": 60,
+    "internationalStudents": 2000
+  },
+  {
+    "id": 266,
+    "name": "Sophia University",
+    "country": "Japan",
+    "city": "Tokyo",
+    "ranking": 700,
+    "tuitionFee": 13000,
+    "programs": [
+      "International Relations",
+      "Languages",
+      "Business",
+      "Sciences"
+    ],
+    "description": "Jesuit university in Tokyo with international focus.",
+    "acceptanceRate": 35,
+    "internationalStudents": 1500
+  },
+  {
+    "id": 274,
+    "name": "Jordan University of Science and Technology",
+    "country": "Jordan",
+    "city": "Irbid",
+    "ranking": 700,
+    "tuitionFee": 5000,
+    "programs": [
+      "Medicine",
+      "Engineering",
+      "Pharmacy",
+      "Agriculture"
+    ],
+    "description": "Leading Jordanian technical university.",
+    "acceptanceRate": 40,
+    "internationalStudents": 3000
+  },
+  {
+    "id": 201,
+    "name": "Shiv Nadar University",
+    "country": "IN",
+    "city": "Greater Noida",
+    "ranking": 701,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 221,
+    "name": "Jadavpur University",
+    "country": "India",
+    "city": "Kolkata",
+    "ranking": 750,
+    "tuitionFee": 500,
+    "programs": [
+      "Engineering",
+      "Arts",
+      "Sciences"
+    ],
+    "description": "Premier state university in West Bengal.",
+    "acceptanceRate": 8,
+    "internationalStudents": 300
+  },
+  {
+    "id": 230,
+    "name": "Ritsumeikan University",
+    "country": "Japan",
+    "city": "Kyoto",
+    "ranking": 800,
+    "tuitionFee": 12000,
+    "programs": [
+      "Engineering",
+      "Business",
+      "International Relations",
+      "Policy Science"
+    ],
+    "description": "Private Japanese university with English programs.",
+    "acceptanceRate": 40,
+    "internationalStudents": 2000
+  },
+  {
+    "id": 238,
+    "name": "Vietnam National University Hanoi",
+    "country": "Vietnam",
+    "city": "Hanoi",
+    "ranking": 800,
+    "tuitionFee": 2000,
+    "programs": [
+      "Engineering",
+      "Business",
+      "Sciences",
+      "Languages"
+    ],
+    "description": "Leading Vietnamese university with growing international programs.",
+    "acceptanceRate": 30,
+    "internationalStudents": 1000
+  },
+  {
+    "id": 239,
+    "name": "Sofia University",
+    "country": "Bulgaria",
+    "city": "Sofia",
+    "ranking": 800,
+    "tuitionFee": 2500,
+    "programs": [
+      "Sciences",
+      "Law",
+      "Medicine",
+      "Arts"
+    ],
+    "description": "Oldest and most prestigious Bulgarian university.",
+    "acceptanceRate": 65,
+    "internationalStudents": 1500
+  },
+  {
+    "id": 328,
+    "name": "Anna University",
+    "country": "India",
+    "city": "Chennai",
+    "ranking": 800,
+    "tuitionFee": 1000,
+    "programs": [
+      "Engineering",
+      "Technology",
+      "Architecture"
+    ],
+    "description": "Major technical university in South India.",
+    "acceptanceRate": 15,
+    "internationalStudents": 500
+  },
+  {
+    "id": 202,
+    "name": "Ashoka University",
+    "country": "IN",
+    "city": "Sonipat",
+    "ranking": 801,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  },
+  {
+    "id": 203,
+    "name": "O.P. Jindal Global University",
+    "country": "IN",
+    "city": "Sonipat",
+    "ranking": 851,
+    "tuitionFee": 0,
+    "programs": [],
+    "description": "",
+    "acceptanceRate": 50,
+    "internationalStudents": 0
+  }
+]
